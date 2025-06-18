@@ -1,0 +1,2501 @@
+employee_id,hire_date,termination_date,department,job_level,termination_reason
+EMP0001,12/11/2021,02/03/2024,HR,Individual Contributor,Layoff
+EMP0002,07/12/2022,09/07/2022,Marketing,Individual Contributor,Voluntary
+EMP0003,03/15/2025,,HR,Senior,
+EMP0004,01/19/2022,09/12/2022,HR,Senior,Voluntary
+EMP0005,03/28/2020,08/25/2020,Customer Support,Individual Contributor,Voluntary
+EMP0006,05/22/2023,,Operations,Individual Contributor,
+EMP0007,08/18/2020,06/26/2022,Sales,Individual Contributor,Voluntary
+EMP0008,08/03/2023,,Customer Support,Individual Contributor,
+EMP0009,08/08/2021,09/22/2023,Marketing,Individual Contributor,Voluntary
+EMP0010,03/04/2022,07/30/2023,Customer Support,Senior,Voluntary
+EMP0011,07/12/2020,08/24/2022,Sales,Individual Contributor,Voluntary
+EMP0012,06/01/2022,07/12/2022,Customer Support,Individual Contributor,Voluntary
+EMP0013,05/17/2022,09/17/2024,Sales,Individual Contributor,Voluntary
+EMP0014,03/04/2025,04/27/2025,Marketing,Individual Contributor,Involuntary
+EMP0015,12/22/2022,04/22/2023,Sales,Individual Contributor,Voluntary
+EMP0016,07/27/2020,,Operations,Manager,
+EMP0017,04/03/2022,,Operations,Senior,
+EMP0018,12/04/2022,,Customer Support,Senior,
+EMP0019,06/08/2025,,Marketing,Individual Contributor,
+EMP0020,08/15/2021,10/01/2022,Sales,Director,Voluntary
+EMP0021,10/28/2021,12/21/2021,Finance,Individual Contributor,Involuntary
+EMP0022,03/21/2024,,Operations,Senior,
+EMP0023,01/15/2022,06/10/2022,Product Development,Manager,Involuntary
+EMP0024,08/16/2023,03/19/2025,Finance,Individual Contributor,Voluntary
+EMP0025,01/19/2021,03/15/2022,Product Development,Senior,Voluntary
+EMP0026,01/20/2022,03/06/2022,Operations,Senior,Voluntary
+EMP0027,03/12/2023,07/24/2023,HR,Senior,Voluntary
+EMP0028,12/10/2020,04/30/2022,Operations,Lead,Voluntary
+EMP0029,02/01/2022,09/26/2024,Marketing,Individual Contributor,Voluntary
+EMP0030,01/14/2020,09/08/2020,Finance,Senior,
+EMP0031,05/10/2022,03/28/2023,Product Development,Senior,Voluntary
+EMP0032,07/16/2023,12/12/2023,HR,Senior,Voluntary
+EMP0033,06/19/2022,08/05/2024,Marketing,Senior,Voluntary
+EMP0034,04/19/2023,09/08/2023,Product Development,Senior,Involuntary
+EMP0035,09/25/2023,,Customer Support,Manager,
+EMP0036,05/13/2024,,Sales,Individual Contributor,
+EMP0037,04/12/2024,,HR,Senior,
+EMP0038,05/03/2022,09/05/2024,Customer Support,Lead,Layoff
+EMP0039,10/17/2023,11/23/2023,Operations,Lead,Voluntary
+EMP0040,08/05/2023,,HR,Individual Contributor,
+EMP0041,09/22/2020,,Finance,Individual Contributor,
+EMP0042,07/11/2024,05/25/2025,Sales,Individual Contributor,Voluntary
+EMP0043,08/03/2025,,Customer Support,Individual Contributor,
+EMP0044,12/08/2021,04/28/2022,Product Development,Individual Contributor,Voluntary
+EMP0045,07/28/2021,06/05/2022,Sales,Individual Contributor,Voluntary
+EMP0046,02/03/2021,12/25/2022,Sales,Lead,Voluntary
+EMP0047,04/26/2025,,Operations,Lead,
+EMP0048,01/09/2022,08/14/2022,HR,Lead,Layoff
+EMP0049,07/05/2025,,Finance,Manager,
+EMP0050,03/14/2023,07/26/2023,Finance,Manager,Involuntary
+EMP0051,03/07/2020,10/21/2022,Finance,Senior,Involuntary
+EMP0052,02/28/2021,,Finance,Senior,
+EMP0053,08/16/2021,,Engineering,Senior,
+EMP0054,04/14/2022,03/10/2023,Customer Support,Senior,Voluntary
+EMP0055,11/17/2024,,Finance,Director,
+EMP0056,11/14/2022,01/06/2024,Marketing,Manager,Voluntary
+EMP0057,01/26/2022,12/25/2023,HR,Individual Contributor,Voluntary
+EMP0058,08/18/2021,10/02/2021,Operations,Senior,Voluntary
+EMP0059,03/06/2020,10/26/2021,Operations,Individual Contributor,Involuntary
+EMP0060,09/24/2020,02/11/2021,Customer Support,Individual Contributor,Voluntary
+EMP0061,12/04/2021,01/25/2022,Sales,Senior,Involuntary
+EMP0062,08/11/2023,,Customer Support,Lead,
+EMP0063,01/11/2023,,Customer Support,Lead,
+EMP0064,06/23/2022,10/27/2022,Operations,Lead,Voluntary
+EMP0065,12/02/2024,04/09/2025,Operations,Individual Contributor,Involuntary
+EMP0066,09/28/2023,,Sales,Senior,
+EMP0067,08/19/2022,,Marketing,Individual Contributor,
+EMP0068,09/01/2020,07/22/2022,Product Development,Lead,Involuntary
+EMP0069,09/15/2021,02/07/2022,Customer Support,Lead,Voluntary
+EMP0070,08/02/2021,09/20/2021,Marketing,Senior,Voluntary
+EMP0071,12/08/2023,,Operations,Individual Contributor,
+EMP0072,08/11/2021,,Operations,Individual Contributor,
+EMP0073,03/15/2021,07/23/2021,Product Development,Lead,
+EMP0074,05/25/2021,01/20/2023,Marketing,Individual Contributor,Voluntary
+EMP0075,01/01/2021,11/21/2021,Sales,Individual Contributor,Voluntary
+EMP0076,01/08/2022,08/30/2022,Marketing,Individual Contributor,Involuntary
+EMP0077,02/13/2021,09/20/2023,Operations,Lead,Voluntary
+EMP0078,07/01/2024,08/28/2024,Engineering,Manager,Voluntary
+EMP0079,03/23/2022,08/13/2022,Sales,Lead,Voluntary
+EMP0080,03/02/2023,,Engineering,Lead,
+EMP0081,02/19/2023,,Finance,Lead,
+EMP0082,10/03/2021,11/16/2023,Sales,Senior,Voluntary
+EMP0083,10/04/2020,12/02/2020,Finance,Senior,Involuntary
+EMP0084,09/09/2022,01/29/2024,Marketing,Manager,Voluntary
+EMP0085,08/07/2022,03/17/2025,Marketing,Lead,Voluntary
+EMP0086,06/15/2022,11/07/2022,Sales,Individual Contributor,Voluntary
+EMP0087,10/17/2021,,Engineering,Individual Contributor,
+EMP0088,02/10/2024,,Sales,Senior,
+EMP0089,10/25/2023,09/19/2024,Customer Support,Individual Contributor,Voluntary
+EMP0090,07/22/2025,,Engineering,Individual Contributor,
+EMP0091,09/19/2020,11/11/2022,Marketing,Senior,Voluntary
+EMP0092,07/26/2024,12/10/2024,Sales,Senior,Involuntary
+EMP0093,07/13/2023,02/22/2024,Engineering,Individual Contributor,Involuntary
+EMP0094,11/03/2022,12/16/2022,HR,Individual Contributor,Voluntary
+EMP0095,07/15/2020,11/21/2020,HR,Lead,
+EMP0096,09/18/2020,04/18/2021,Finance,Director,Voluntary
+EMP0097,03/26/2023,08/22/2023,Operations,Manager,Involuntary
+EMP0098,12/07/2024,,HR,Lead,
+EMP0099,10/14/2021,,Marketing,Individual Contributor,
+EMP0100,07/09/2021,02/10/2023,HR,Individual Contributor,Voluntary
+EMP0101,09/02/2024,,Finance,Individual Contributor,
+EMP0102,12/16/2022,05/02/2023,Product Development,Senior,Voluntary
+EMP0103,09/24/2022,,Finance,Senior,
+EMP0104,02/11/2023,12/21/2023,Finance,Individual Contributor,Involuntary
+EMP0105,06/07/2023,11/02/2023,Sales,Senior,Voluntary
+EMP0106,01/13/2021,06/11/2021,Customer Support,Senior,Voluntary
+EMP0107,11/22/2022,07/18/2023,Sales,Lead,Voluntary
+EMP0108,01/18/2020,08/28/2021,Sales,Individual Contributor,Involuntary
+EMP0109,05/14/2023,,HR,Senior,
+EMP0110,12/12/2021,02/09/2022,Finance,Manager,Involuntary
+EMP0111,09/05/2025,,Marketing,Individual Contributor,
+EMP0112,08/02/2021,12/26/2021,HR,Senior,Voluntary
+EMP0113,02/21/2021,01/18/2022,HR,Individual Contributor,Layoff
+EMP0114,09/25/2022,10/31/2022,Sales,Senior,Voluntary
+EMP0115,03/28/2022,05/19/2022,Finance,Individual Contributor,Involuntary
+EMP0116,06/08/2021,01/29/2025,Operations,Individual Contributor,Involuntary
+EMP0117,01/01/2024,02/13/2024,Operations,Individual Contributor,Voluntary
+EMP0118,02/07/2021,12/18/2021,Sales,Director,
+EMP0119,07/09/2024,08/17/2024,Engineering,Manager,Involuntary
+EMP0120,09/15/2022,02/03/2023,HR,Senior,Involuntary
+EMP0121,01/28/2022,06/18/2022,HR,Individual Contributor,Voluntary
+EMP0122,03/23/2024,05/04/2025,Engineering,Individual Contributor,Voluntary
+EMP0123,07/27/2021,06/10/2022,Sales,Lead,Voluntary
+EMP0124,05/24/2025,,HR,Senior,
+EMP0125,09/28/2023,11/13/2023,Marketing,Senior,Voluntary
+EMP0126,06/02/2023,,Finance,Lead,
+EMP0127,08/16/2020,10/02/2023,Marketing,Individual Contributor,Involuntary
+EMP0128,07/12/2020,08/24/2020,Customer Support,Senior,
+EMP0129,02/10/2020,09/23/2024,Engineering,Manager,Voluntary
+EMP0130,08/27/2020,04/05/2021,HR,Director,Voluntary
+EMP0131,08/25/2025,,Customer Support,Senior,
+EMP0132,06/12/2022,11/10/2022,Finance,Individual Contributor,Involuntary
+EMP0133,02/21/2023,03/28/2023,Finance,Individual Contributor,Involuntary
+EMP0134,08/23/2021,04/09/2022,Sales,Lead,Involuntary
+EMP0135,02/25/2023,,Operations,Manager,
+EMP0136,09/21/2025,,Finance,Individual Contributor,
+EMP0137,08/06/2020,12/20/2022,Sales,Individual Contributor,Voluntary
+EMP0138,04/25/2023,03/06/2024,Marketing,Individual Contributor,Voluntary
+EMP0139,06/21/2023,05/16/2024,Sales,Individual Contributor,Voluntary
+EMP0140,07/15/2022,08/29/2024,Sales,Individual Contributor,Voluntary
+EMP0141,02/14/2022,,Engineering,Individual Contributor,
+EMP0142,09/10/2021,07/31/2023,Operations,Senior,Involuntary
+EMP0143,02/25/2022,,Customer Support,Manager,
+EMP0144,07/22/2022,09/05/2022,Marketing,Senior,Voluntary
+EMP0145,05/25/2021,10/13/2023,HR,Senior,Voluntary
+EMP0146,01/01/2020,02/21/2022,Operations,Senior,Voluntary
+EMP0147,06/22/2021,,Sales,Director,
+EMP0148,04/23/2022,,Operations,Individual Contributor,
+EMP0149,04/21/2021,,Engineering,Lead,
+EMP0150,03/09/2023,08/04/2023,Product Development,Director,Voluntary
+EMP0151,07/22/2024,,Operations,Individual Contributor,
+EMP0152,05/25/2022,10/15/2022,Product Development,Senior,Voluntary
+EMP0153,09/28/2020,02/15/2023,Product Development,Senior,Voluntary
+EMP0154,01/24/2025,,Sales,Individual Contributor,
+EMP0155,03/19/2020,,Operations,Individual Contributor,
+EMP0156,09/26/2021,08/11/2023,Marketing,Senior,Voluntary
+EMP0157,02/04/2021,06/04/2024,Engineering,Individual Contributor,Involuntary
+EMP0158,06/08/2023,05/01/2024,Finance,Individual Contributor,Involuntary
+EMP0159,08/13/2022,10/05/2022,Marketing,Senior,Involuntary
+EMP0160,01/20/2020,03/07/2023,HR,Manager,Involuntary
+EMP0161,12/15/2021,05/14/2022,HR,Lead,Involuntary
+EMP0162,01/18/2022,06/13/2022,Product Development,Senior,Voluntary
+EMP0163,09/28/2023,02/13/2024,Engineering,Individual Contributor,Voluntary
+EMP0164,05/25/2022,10/15/2023,Marketing,Individual Contributor,Involuntary
+EMP0165,07/21/2021,03/09/2024,Engineering,Individual Contributor,Layoff
+EMP0166,02/12/2022,03/12/2025,HR,Director,Voluntary
+EMP0167,09/11/2022,,Operations,Director,
+EMP0168,04/19/2021,11/25/2023,Operations,Individual Contributor,Voluntary
+EMP0169,05/07/2021,12/22/2021,Product Development,Senior,Voluntary
+EMP0170,09/28/2023,05/19/2024,Finance,Lead,Layoff
+EMP0171,09/19/2021,02/10/2022,Sales,Individual Contributor,Voluntary
+EMP0172,07/27/2021,,Customer Support,Senior,
+EMP0173,11/19/2023,,Sales,Individual Contributor,
+EMP0174,08/26/2024,10/02/2024,Customer Support,Senior,Voluntary
+EMP0175,09/22/2023,02/15/2024,Customer Support,Manager,Voluntary
+EMP0176,03/10/2020,07/22/2022,HR,Individual Contributor,Voluntary
+EMP0177,02/04/2024,,Customer Support,Manager,
+EMP0178,09/24/2021,,Customer Support,Senior,
+EMP0179,03/28/2025,,Sales,Lead,
+EMP0180,07/14/2022,02/21/2025,Operations,Senior,Voluntary
+EMP0181,02/07/2023,03/14/2024,Finance,Individual Contributor,Voluntary
+EMP0182,07/28/2024,12/22/2024,Operations,Individual Contributor,Voluntary
+EMP0183,09/07/2021,,Engineering,Senior,
+EMP0184,07/13/2021,,Customer Support,Individual Contributor,
+EMP0185,04/28/2023,03/23/2024,Marketing,Senior,Involuntary
+EMP0186,01/05/2024,,Sales,Senior,
+EMP0187,06/21/2023,,Marketing,Individual Contributor,
+EMP0188,06/26/2021,05/24/2023,Product Development,Individual Contributor,Voluntary
+EMP0189,02/09/2020,09/11/2020,HR,Manager,
+EMP0190,01/25/2021,12/18/2023,Operations,Manager,Voluntary
+EMP0191,12/14/2021,04/21/2022,Operations,Manager,Voluntary
+EMP0192,03/19/2024,,Sales,Individual Contributor,
+EMP0193,03/15/2023,08/04/2023,Operations,Individual Contributor,Voluntary
+EMP0194,03/14/2022,04/17/2023,HR,Manager,Voluntary
+EMP0195,10/23/2022,,Operations,Manager,
+EMP0196,09/24/2023,02/15/2024,Customer Support,Individual Contributor,Involuntary
+EMP0197,02/19/2022,,Engineering,Director,
+EMP0198,05/22/2021,03/29/2022,Marketing,Individual Contributor,Layoff
+EMP0199,06/08/2021,01/15/2023,Marketing,Lead,Voluntary
+EMP0200,05/10/2022,,Finance,Individual Contributor,
+EMP0201,11/21/2022,10/20/2024,Finance,Individual Contributor,Involuntary
+EMP0202,08/01/2021,12/18/2024,Marketing,Senior,Involuntary
+EMP0203,02/02/2023,,Operations,Individual Contributor,
+EMP0204,08/28/2023,07/06/2024,Finance,Manager,Voluntary
+EMP0205,04/03/2021,05/30/2025,Engineering,Individual Contributor,Voluntary
+EMP0206,03/06/2022,,Finance,Individual Contributor,
+EMP0207,03/15/2021,08/09/2021,Finance,Individual Contributor,Voluntary
+EMP0208,12/09/2022,,Operations,Lead,
+EMP0209,09/13/2021,01/26/2022,Customer Support,Individual Contributor,Involuntary
+EMP0210,04/28/2022,,Finance,Senior,
+EMP0211,12/21/2021,11/11/2022,Marketing,Senior,Voluntary
+EMP0212,06/26/2023,11/13/2023,Product Development,Director,Voluntary
+EMP0213,07/26/2024,,Marketing,Senior,
+EMP0214,07/19/2022,08/31/2024,Sales,Individual Contributor,Voluntary
+EMP0215,03/05/2021,01/26/2022,Finance,Individual Contributor,Involuntary
+EMP0216,08/21/2022,01/08/2024,Engineering,Lead,Voluntary
+EMP0217,09/25/2020,02/06/2021,Finance,Lead,Involuntary
+EMP0218,01/23/2023,05/26/2023,Operations,Individual Contributor,Voluntary
+EMP0219,08/13/2022,01/10/2023,Marketing,Senior,Voluntary
+EMP0220,02/28/2020,06/29/2020,Product Development,Individual Contributor,
+EMP0221,03/08/2021,01/14/2022,Finance,Lead,Voluntary
+EMP0222,01/19/2021,03/08/2023,Operations,Senior,Voluntary
+EMP0223,03/04/2021,04/26/2021,Product Development,Individual Contributor,
+EMP0224,09/11/2024,,Sales,Senior,
+EMP0225,03/06/2020,02/03/2025,Sales,Lead,Voluntary
+EMP0226,03/11/2020,07/15/2022,Operations,Director,Voluntary
+EMP0227,06/18/2022,01/24/2023,Sales,Individual Contributor,Voluntary
+EMP0228,08/09/2022,,Finance,Senior,
+EMP0229,01/11/2022,06/01/2022,Operations,Senior,Voluntary
+EMP0230,01/05/2023,02/07/2024,Customer Support,Manager,Voluntary
+EMP0231,10/26/2023,,Marketing,Senior,
+EMP0232,01/02/2020,,Engineering,Lead,
+EMP0233,01/26/2022,,Finance,Senior,
+EMP0234,08/11/2021,06/11/2024,Engineering,Lead,Voluntary
+EMP0235,12/06/2024,,Engineering,Senior,
+EMP0236,06/03/2021,04/03/2022,Sales,Director,Involuntary
+EMP0237,03/06/2024,04/09/2024,Marketing,Senior,Voluntary
+EMP0238,07/12/2025,,Marketing,Senior,
+EMP0239,02/06/2024,,Marketing,Individual Contributor,
+EMP0240,12/08/2025,,Finance,Manager,
+EMP0241,03/01/2023,,HR,Senior,
+EMP0242,04/02/2021,11/05/2022,Sales,Individual Contributor,Layoff
+EMP0243,06/25/2025,,Finance,Senior,
+EMP0244,01/03/2022,02/09/2022,Marketing,Individual Contributor,Involuntary
+EMP0245,04/21/2025,,HR,Lead,
+EMP0246,10/20/2024,11/29/2024,Marketing,Individual Contributor,Voluntary
+EMP0247,02/02/2020,06/15/2025,Sales,Individual Contributor,Voluntary
+EMP0248,09/04/2020,11/02/2022,Finance,Lead,Voluntary
+EMP0249,07/05/2022,05/24/2023,Marketing,Manager,Voluntary
+EMP0250,03/19/2021,,Marketing,Lead,
+EMP0251,03/09/2020,,Engineering,Individual Contributor,
+EMP0252,04/20/2021,09/05/2021,HR,Senior,Voluntary
+EMP0253,06/04/2021,04/23/2022,Marketing,Individual Contributor,Involuntary
+EMP0254,05/04/2025,,Finance,Lead,
+EMP0255,12/19/2022,11/03/2023,Operations,Individual Contributor,Voluntary
+EMP0256,02/04/2024,,Customer Support,Senior,
+EMP0257,11/18/2023,10/08/2024,Marketing,Individual Contributor,Voluntary
+EMP0258,05/28/2024,10/24/2024,Sales,Individual Contributor,Voluntary
+EMP0259,04/02/2023,,HR,Individual Contributor,
+EMP0260,05/25/2021,07/24/2021,Finance,Director,
+EMP0261,12/09/2022,,Engineering,Individual Contributor,
+EMP0262,02/15/2022,12/17/2023,Operations,Senior,Involuntary
+EMP0263,03/04/2022,07/07/2022,Sales,Individual Contributor,Voluntary
+EMP0264,03/19/2022,10/22/2023,Customer Support,Senior,Layoff
+EMP0265,10/10/2021,09/03/2023,HR,Lead,Voluntary
+EMP0266,12/28/2022,01/28/2025,Marketing,Individual Contributor,Voluntary
+EMP0267,09/26/2022,,Customer Support,Senior,
+EMP0268,01/06/2020,06/01/2021,Finance,Individual Contributor,Voluntary
+EMP0269,06/18/2023,01/19/2024,Customer Support,Individual Contributor,Voluntary
+EMP0270,03/07/2020,04/28/2020,HR,Individual Contributor,
+EMP0271,01/25/2023,12/04/2023,HR,Manager,Involuntary
+EMP0272,02/05/2023,03/16/2023,HR,Individual Contributor,Voluntary
+EMP0273,09/26/2021,,Operations,Manager,
+EMP0274,06/25/2021,08/02/2021,Finance,Senior,Involuntary
+EMP0275,06/13/2021,10/14/2021,Finance,Lead,Voluntary
+EMP0276,01/11/2020,,Engineering,Manager,
+EMP0277,07/13/2022,,Operations,Individual Contributor,
+EMP0278,07/21/2022,,Operations,Manager,
+EMP0279,06/21/2024,02/05/2025,Engineering,Individual Contributor,Involuntary
+EMP0280,07/04/2021,08/06/2023,Customer Support,Individual Contributor,Voluntary
+EMP0281,06/20/2021,07/30/2021,Marketing,Individual Contributor,Involuntary
+EMP0282,08/02/2021,03/09/2022,Sales,Senior,Involuntary
+EMP0283,09/26/2023,02/13/2024,HR,Lead,Voluntary
+EMP0284,10/26/2021,,Operations,Lead,
+EMP0285,07/26/2023,,Operations,Lead,
+EMP0286,07/28/2021,,Finance,Individual Contributor,
+EMP0287,01/18/2022,,Finance,Lead,
+EMP0288,12/03/2024,,Finance,Individual Contributor,
+EMP0289,03/22/2020,05/05/2021,Product Development,Lead,Voluntary
+EMP0290,01/03/2022,,Finance,Senior,
+EMP0291,06/22/2022,05/02/2023,Finance,Senior,Voluntary
+EMP0292,11/21/2021,04/16/2022,Customer Support,Director,Voluntary
+EMP0293,09/07/2022,07/22/2024,Sales,Senior,Involuntary
+EMP0294,12/03/2023,,Operations,Senior,
+EMP0295,04/22/2022,09/16/2022,Operations,Manager,Involuntary
+EMP0296,08/11/2021,09/20/2023,Sales,Director,Voluntary
+EMP0297,01/20/2023,,Marketing,Individual Contributor,
+EMP0298,02/05/2020,03/27/2021,Marketing,Individual Contributor,
+EMP0299,02/07/2021,09/29/2023,Marketing,Lead,Voluntary
+EMP0300,06/14/2022,11/10/2022,Operations,Manager,Voluntary
+EMP0301,05/23/2025,,Engineering,Individual Contributor,
+EMP0302,02/25/2021,,Marketing,Individual Contributor,
+EMP0303,05/08/2023,,Sales,Lead,
+EMP0304,02/24/2021,,Operations,Individual Contributor,
+EMP0305,07/20/2021,03/01/2022,Product Development,Individual Contributor,Voluntary
+EMP0306,03/01/2021,07/26/2021,Product Development,Manager,Involuntary
+EMP0307,09/13/2024,,Customer Support,Senior,
+EMP0308,07/07/2022,02/23/2024,Marketing,Manager,Voluntary
+EMP0309,01/20/2022,,Marketing,Individual Contributor,
+EMP0310,02/17/2023,,Sales,Individual Contributor,
+EMP0311,12/08/2020,01/24/2024,Sales,Individual Contributor,Involuntary
+EMP0312,02/24/2021,04/01/2023,Customer Support,Individual Contributor,Voluntary
+EMP0313,12/25/2021,08/15/2022,Product Development,Manager,Voluntary
+EMP0314,02/24/2021,10/08/2021,Marketing,Individual Contributor,Voluntary
+EMP0315,10/20/2022,09/10/2023,Sales,Manager,Voluntary
+EMP0316,09/21/2024,,Customer Support,Manager,
+EMP0317,09/25/2020,01/29/2021,Operations,Manager,Involuntary
+EMP0318,11/28/2023,,Customer Support,Individual Contributor,
+EMP0319,01/21/2023,06/02/2023,Operations,Individual Contributor,Voluntary
+EMP0320,09/28/2022,05/23/2025,Finance,Individual Contributor,Voluntary
+EMP0321,07/22/2020,12/08/2023,Operations,Senior,Voluntary
+EMP0322,07/27/2020,05/31/2021,Operations,Individual Contributor,Voluntary
+EMP0323,03/06/2024,,Finance,Individual Contributor,
+EMP0324,06/11/2021,07/13/2021,Sales,Senior,
+EMP0325,11/12/2023,,Engineering,Senior,
+EMP0326,03/04/2021,07/19/2021,Operations,Individual Contributor,
+EMP0327,08/03/2022,,Engineering,Individual Contributor,
+EMP0328,09/13/2023,02/05/2024,Engineering,Individual Contributor,Voluntary
+EMP0329,06/10/2023,01/12/2025,Engineering,Individual Contributor,Layoff
+EMP0330,05/09/2025,,Operations,Lead,
+EMP0331,02/22/2022,01/18/2023,HR,Senior,Voluntary
+EMP0332,11/23/2020,01/20/2021,Customer Support,Individual Contributor,Involuntary
+EMP0333,02/24/2023,01/18/2024,HR,Individual Contributor,Voluntary
+EMP0334,01/11/2021,03/03/2021,Operations,Director,
+EMP0335,10/12/2021,11/29/2021,Operations,Individual Contributor,Voluntary
+EMP0336,09/16/2024,10/27/2024,Marketing,Individual Contributor,Voluntary
+EMP0337,05/07/2022,07/02/2022,Marketing,Senior,Voluntary
+EMP0338,02/23/2023,07/04/2023,Finance,Lead,Voluntary
+EMP0339,09/05/2021,10/08/2021,HR,Individual Contributor,Voluntary
+EMP0340,04/07/2021,06/03/2021,Finance,Individual Contributor,Voluntary
+EMP0341,02/10/2022,,Operations,Manager,
+EMP0342,03/07/2024,04/12/2024,Operations,Manager,Involuntary
+EMP0343,07/18/2020,,HR,Senior,
+EMP0344,01/11/2022,05/31/2022,HR,Senior,Voluntary
+EMP0345,06/11/2021,,Operations,Individual Contributor,
+EMP0346,01/10/2020,05/18/2022,Product Development,Individual Contributor,Voluntary
+EMP0347,02/26/2022,04/19/2022,Product Development,Lead,Voluntary
+EMP0348,08/04/2023,,Finance,Individual Contributor,
+EMP0349,07/14/2020,,Operations,Individual Contributor,
+EMP0350,07/07/2023,08/21/2023,HR,Manager,Voluntary
+EMP0351,03/27/2022,04/29/2023,Sales,Senior,Voluntary
+EMP0352,09/13/2020,07/23/2023,Customer Support,Individual Contributor,Voluntary
+EMP0353,12/14/2024,,Finance,Individual Contributor,
+EMP0354,08/06/2022,,Customer Support,Lead,
+EMP0355,06/13/2021,07/31/2023,Customer Support,Senior,Voluntary
+EMP0356,03/11/2020,04/21/2020,Marketing,Senior,
+EMP0357,07/01/2021,,Operations,Senior,
+EMP0358,09/14/2021,01/27/2024,Finance,Director,Voluntary
+EMP0359,05/15/2021,01/10/2022,Customer Support,Senior,Voluntary
+EMP0360,06/25/2021,11/14/2023,Operations,Lead,Voluntary
+EMP0361,07/18/2020,,Marketing,Manager,
+EMP0362,03/07/2021,10/16/2023,Customer Support,Director,Voluntary
+EMP0363,01/23/2025,,Finance,Individual Contributor,
+EMP0364,04/22/2022,05/28/2022,Marketing,Senior,Involuntary
+EMP0365,10/26/2024,,Engineering,Lead,
+EMP0366,09/06/2022,05/02/2023,Customer Support,Senior,Voluntary
+EMP0367,08/09/2021,09/30/2021,Finance,Senior,Voluntary
+EMP0368,08/15/2021,12/17/2021,Marketing,Lead,
+EMP0369,04/06/2022,11/18/2023,Customer Support,Director,Voluntary
+EMP0370,02/07/2021,03/12/2021,Product Development,Individual Contributor,Involuntary
+EMP0371,11/14/2020,12/19/2022,Customer Support,Lead,Voluntary
+EMP0372,01/28/2024,03/26/2024,Customer Support,Senior,Involuntary
+EMP0373,06/08/2022,02/01/2023,Product Development,Individual Contributor,Layoff
+EMP0374,12/07/2022,07/28/2023,Product Development,Senior,Voluntary
+EMP0375,11/15/2022,,Finance,Individual Contributor,
+EMP0376,03/28/2023,,Finance,Senior,
+EMP0377,08/03/2020,12/14/2020,Customer Support,Manager,Involuntary
+EMP0378,02/23/2025,,Customer Support,Senior,
+EMP0379,04/11/2022,11/25/2023,Marketing,Lead,Voluntary
+EMP0380,08/13/2021,,Engineering,Individual Contributor,
+EMP0381,01/18/2022,,Sales,Individual Contributor,
+EMP0382,02/23/2021,01/20/2024,Sales,Individual Contributor,Involuntary
+EMP0383,03/17/2021,04/19/2021,Sales,Manager,Voluntary
+EMP0384,08/13/2023,09/25/2023,Product Development,Individual Contributor,Voluntary
+EMP0385,03/09/2022,04/19/2022,Marketing,Manager,Voluntary
+EMP0386,05/05/2021,,Finance,Senior,
+EMP0387,04/03/2023,,HR,Lead,
+EMP0388,09/14/2021,,Sales,Individual Contributor,
+EMP0389,04/23/2024,,Marketing,Individual Contributor,
+EMP0390,08/22/2020,01/17/2024,Sales,Lead,Voluntary
+EMP0391,10/21/2021,,Operations,Individual Contributor,
+EMP0392,01/06/2024,,Engineering,Lead,
+EMP0393,02/20/2021,09/27/2023,Marketing,Individual Contributor,Voluntary
+EMP0394,05/21/2022,03/24/2024,Finance,Lead,Voluntary
+EMP0395,03/16/2023,,Operations,Individual Contributor,
+EMP0396,11/01/2023,09/27/2024,Sales,Lead,Voluntary
+EMP0397,12/16/2020,01/17/2024,Engineering,Senior,Layoff
+EMP0398,03/01/2023,,Operations,Lead,
+EMP0399,03/17/2020,05/01/2020,Customer Support,Individual Contributor,Layoff
+EMP0400,04/22/2022,,Marketing,Individual Contributor,
+EMP0401,01/21/2023,06/08/2023,Sales,Individual Contributor,Involuntary
+EMP0402,10/08/2021,02/11/2022,Product Development,Senior,Voluntary
+EMP0403,12/21/2023,,Marketing,Lead,
+EMP0404,05/12/2021,07/07/2023,Finance,Director,Voluntary
+EMP0405,02/27/2020,07/19/2020,Product Development,Individual Contributor,Voluntary
+EMP0406,04/15/2023,,Finance,Individual Contributor,
+EMP0407,04/07/2022,,Operations,Senior,
+EMP0408,06/13/2021,02/07/2022,Sales,Manager,Involuntary
+EMP0409,01/09/2021,02/16/2021,Operations,Individual Contributor,
+EMP0410,01/25/2024,,Engineering,Lead,
+EMP0411,10/24/2022,12/10/2022,Product Development,Lead,Voluntary
+EMP0412,02/14/2022,09/28/2023,Marketing,Individual Contributor,Involuntary
+EMP0413,05/26/2024,,Sales,Manager,
+EMP0414,09/17/2022,02/07/2025,Operations,Individual Contributor,Voluntary
+EMP0415,07/07/2021,,HR,Senior,
+EMP0416,08/21/2023,12/22/2023,Product Development,Director,Voluntary
+EMP0417,10/28/2023,,Marketing,Individual Contributor,
+EMP0418,01/04/2022,02/15/2022,HR,Lead,Voluntary
+EMP0419,06/16/2021,,Operations,Senior,
+EMP0420,12/14/2022,07/15/2023,Sales,Individual Contributor,Involuntary
+EMP0421,06/07/2023,,Engineering,Individual Contributor,
+EMP0422,06/25/2021,08/05/2023,Finance,Individual Contributor,Voluntary
+EMP0423,04/07/2022,05/12/2024,Sales,Individual Contributor,Voluntary
+EMP0424,04/06/2023,,Operations,Lead,
+EMP0425,12/25/2021,01/26/2022,Sales,Individual Contributor,Involuntary
+EMP0426,01/08/2020,,Engineering,Individual Contributor,
+EMP0427,11/21/2021,01/07/2022,Sales,Senior,Voluntary
+EMP0428,03/03/2020,04/30/2021,Product Development,Individual Contributor,Voluntary
+EMP0429,11/24/2023,04/22/2024,HR,Lead,Voluntary
+EMP0430,02/20/2022,07/07/2022,Customer Support,Individual Contributor,Involuntary
+EMP0431,08/15/2023,01/12/2025,Finance,Senior,Voluntary
+EMP0432,02/23/2025,,Operations,Lead,
+EMP0433,07/21/2022,12/16/2022,Finance,Individual Contributor,Voluntary
+EMP0434,05/20/2022,,Finance,Individual Contributor,
+EMP0435,09/05/2023,01/08/2025,Sales,Individual Contributor,Voluntary
+EMP0436,08/21/2022,03/25/2025,Engineering,Individual Contributor,Voluntary
+EMP0437,01/03/2021,09/01/2021,Operations,Lead,
+EMP0438,07/23/2021,09/15/2021,Customer Support,Lead,Involuntary
+EMP0439,06/23/2021,11/14/2024,Finance,Manager,Voluntary
+EMP0440,07/15/2023,,HR,Individual Contributor,
+EMP0441,06/07/2023,07/27/2023,HR,Individual Contributor,Involuntary
+EMP0442,01/13/2020,03/09/2020,Product Development,Individual Contributor,Involuntary
+EMP0443,02/17/2022,09/25/2022,Sales,Lead,Voluntary
+EMP0444,07/06/2022,,Marketing,Manager,
+EMP0445,06/20/2025,,Operations,Individual Contributor,
+EMP0446,02/18/2025,,Marketing,Individual Contributor,
+EMP0447,01/21/2025,,Sales,Individual Contributor,
+EMP0448,03/20/2022,04/21/2022,Finance,Senior,Involuntary
+EMP0449,03/17/2021,07/18/2021,Marketing,Manager,
+EMP0450,12/20/2021,04/21/2022,Customer Support,Senior,Involuntary
+EMP0451,10/22/2021,,Sales,Manager,
+EMP0452,03/28/2020,08/26/2022,Customer Support,Senior,Voluntary
+EMP0453,07/18/2025,,Marketing,Individual Contributor,
+EMP0454,10/22/2022,09/17/2023,Customer Support,Lead,Voluntary
+EMP0455,07/14/2022,11/17/2024,Customer Support,Individual Contributor,Voluntary
+EMP0456,04/18/2022,06/14/2022,HR,Senior,Involuntary
+EMP0457,08/17/2022,10/09/2023,Operations,Director,Voluntary
+EMP0458,08/06/2021,,Marketing,Individual Contributor,
+EMP0459,10/03/2024,05/24/2025,Marketing,Individual Contributor,Voluntary
+EMP0460,10/14/2023,11/19/2023,Sales,Individual Contributor,Voluntary
+EMP0461,12/13/2022,,Sales,Senior,
+EMP0462,11/01/2022,09/24/2023,Finance,Lead,Voluntary
+EMP0463,08/03/2022,09/13/2022,Finance,Senior,Voluntary
+EMP0464,06/25/2021,08/09/2021,Sales,Senior,
+EMP0465,02/23/2022,03/28/2022,Operations,Lead,Involuntary
+EMP0466,08/08/2020,09/13/2021,Operations,Individual Contributor,Voluntary
+EMP0467,02/16/2022,,Operations,Individual Contributor,
+EMP0468,03/06/2020,01/06/2024,Finance,Individual Contributor,Voluntary
+EMP0469,08/27/2020,01/23/2021,Customer Support,Lead,Voluntary
+EMP0470,01/12/2021,05/16/2025,Operations,Individual Contributor,Voluntary
+EMP0471,08/13/2020,04/03/2021,Marketing,Lead,
+EMP0472,10/11/2022,06/03/2024,HR,Senior,Voluntary
+EMP0473,07/26/2022,,Sales,Senior,
+EMP0474,01/19/2021,11/28/2023,HR,Individual Contributor,Voluntary
+EMP0475,09/26/2021,04/30/2022,HR,Manager,Voluntary
+EMP0476,03/01/2022,04/13/2022,Operations,Individual Contributor,Involuntary
+EMP0477,03/12/2023,04/24/2023,Sales,Individual Contributor,Involuntary
+EMP0478,03/08/2025,04/24/2025,Marketing,Individual Contributor,Voluntary
+EMP0479,07/15/2023,08/16/2024,Customer Support,Manager,Voluntary
+EMP0480,06/12/2023,,HR,Individual Contributor,
+EMP0481,06/03/2022,10/27/2022,Customer Support,Individual Contributor,Voluntary
+EMP0482,02/22/2023,,Engineering,Senior,
+EMP0483,03/22/2022,02/04/2024,Marketing,Individual Contributor,Voluntary
+EMP0484,03/09/2024,,Customer Support,Individual Contributor,
+EMP0485,01/10/2022,11/27/2023,Operations,Individual Contributor,Involuntary
+EMP0486,03/18/2023,04/29/2023,Customer Support,Individual Contributor,Involuntary
+EMP0487,07/06/2022,08/23/2022,Product Development,Individual Contributor,Involuntary
+EMP0488,03/04/2025,,Sales,Director,
+EMP0489,06/12/2024,04/12/2025,Operations,Senior,Voluntary
+EMP0490,02/09/2023,03/17/2025,Operations,Senior,Layoff
+EMP0491,10/26/2022,12/05/2022,Marketing,Individual Contributor,Involuntary
+EMP0492,02/22/2022,,Operations,Manager,
+EMP0493,03/28/2021,02/15/2023,Customer Support,Manager,Voluntary
+EMP0494,07/18/2022,08/24/2022,HR,Lead,Voluntary
+EMP0495,03/23/2023,07/30/2023,Finance,Individual Contributor,Voluntary
+EMP0496,09/28/2022,,Operations,Individual Contributor,
+EMP0497,08/28/2022,,Engineering,Senior,
+EMP0498,03/09/2021,,Finance,Individual Contributor,
+EMP0499,01/09/2022,11/18/2024,Sales,Individual Contributor,Voluntary
+EMP0500,08/19/2020,10/09/2021,Marketing,Senior,Voluntary
+EMP0501,02/27/2020,01/12/2024,Engineering,Senior,Voluntary
+EMP0502,12/11/2020,01/12/2021,Sales,Individual Contributor,
+EMP0503,04/20/2022,03/09/2023,Sales,Senior,Involuntary
+EMP0504,02/01/2022,06/22/2024,Marketing,Manager,Voluntary
+EMP0505,10/24/2023,,Operations,Individual Contributor,
+EMP0506,02/18/2024,04/04/2024,Finance,Director,Involuntary
+EMP0507,01/05/2023,11/11/2023,HR,Individual Contributor,Voluntary
+EMP0508,08/23/2021,04/12/2022,Sales,Senior,Voluntary
+EMP0509,07/19/2021,,Marketing,Individual Contributor,
+EMP0510,03/16/2022,05/06/2025,Finance,Senior,Voluntary
+EMP0511,11/13/2023,04/07/2024,Sales,Individual Contributor,Involuntary
+EMP0512,08/24/2021,04/06/2024,Engineering,Senior,Voluntary
+EMP0513,08/22/2020,10/12/2020,HR,Individual Contributor,Involuntary
+EMP0514,06/23/2023,08/06/2023,Customer Support,Senior,Voluntary
+EMP0515,02/12/2024,03/26/2024,HR,Individual Contributor,Involuntary
+EMP0516,09/11/2022,07/28/2023,Marketing,Senior,Voluntary
+EMP0517,07/12/2024,,Sales,Lead,
+EMP0518,02/22/2023,10/14/2023,Finance,Individual Contributor,Voluntary
+EMP0519,07/21/2021,08/21/2021,Marketing,Individual Contributor,Voluntary
+EMP0520,01/12/2024,,HR,Individual Contributor,
+EMP0521,01/06/2021,05/23/2021,Finance,Individual Contributor,
+EMP0522,01/22/2025,,HR,Individual Contributor,
+EMP0523,07/07/2025,,Customer Support,Manager,
+EMP0524,03/20/2022,,Sales,Lead,
+EMP0525,02/07/2023,03/20/2023,Finance,Individual Contributor,Involuntary
+EMP0526,05/07/2023,09/18/2023,Customer Support,Individual Contributor,Involuntary
+EMP0527,04/08/2021,02/11/2025,Customer Support,Senior,Involuntary
+EMP0528,02/22/2021,09/22/2023,Product Development,Senior,Voluntary
+EMP0529,10/12/2021,08/31/2022,Sales,Individual Contributor,Voluntary
+EMP0530,07/10/2020,11/12/2020,Product Development,Director,Involuntary
+EMP0531,04/23/2024,12/08/2024,Customer Support,Senior,Involuntary
+EMP0532,05/27/2021,06/28/2021,Customer Support,Lead,Voluntary
+EMP0533,03/09/2023,07/21/2023,Finance,Individual Contributor,Involuntary
+EMP0534,04/20/2023,08/29/2023,Sales,Director,Voluntary
+EMP0535,01/17/2022,,Operations,Individual Contributor,
+EMP0536,07/27/2025,,Customer Support,Senior,
+EMP0537,07/10/2020,02/19/2024,HR,Individual Contributor,Voluntary
+EMP0538,07/23/2023,02/25/2025,Customer Support,Senior,Voluntary
+EMP0539,09/05/2022,,Finance,Manager,
+EMP0540,10/17/2021,05/22/2022,Finance,Individual Contributor,Involuntary
+EMP0541,02/23/2021,06/28/2023,Operations,Individual Contributor,Involuntary
+EMP0542,09/26/2021,,Finance,Director,
+EMP0543,01/22/2022,06/16/2022,Sales,Individual Contributor,Voluntary
+EMP0544,01/03/2022,,Marketing,Director,
+EMP0545,11/05/2023,,Customer Support,Individual Contributor,
+EMP0546,12/16/2022,10/22/2023,Operations,Individual Contributor,Voluntary
+EMP0547,05/07/2024,,Marketing,Individual Contributor,
+EMP0548,03/28/2023,02/12/2024,Sales,Lead,Voluntary
+EMP0549,10/02/2021,,HR,Manager,
+EMP0550,06/11/2024,,Finance,Individual Contributor,
+EMP0551,12/01/2022,10/18/2024,Sales,Individual Contributor,Voluntary
+EMP0552,12/21/2023,,Finance,Senior,
+EMP0553,05/23/2021,,Operations,Individual Contributor,
+EMP0554,06/24/2023,11/04/2024,Finance,Manager,Voluntary
+EMP0555,11/11/2022,03/11/2025,Operations,Senior,Voluntary
+EMP0556,02/24/2022,04/21/2022,Operations,Senior,Voluntary
+EMP0557,02/12/2023,03/23/2023,Product Development,Lead,Voluntary
+EMP0558,07/13/2023,,Marketing,Senior,
+EMP0559,01/11/2023,,Engineering,Individual Contributor,
+EMP0560,08/01/2020,12/23/2023,Finance,Senior,Involuntary
+EMP0561,03/01/2020,04/07/2021,Product Development,Individual Contributor,Voluntary
+EMP0562,03/15/2023,04/21/2025,HR,Individual Contributor,Involuntary
+EMP0563,03/19/2023,10/27/2023,Operations,Individual Contributor,Voluntary
+EMP0564,08/15/2021,07/03/2022,Operations,Individual Contributor,Voluntary
+EMP0565,08/01/2020,03/11/2021,Sales,Individual Contributor,
+EMP0566,08/13/2023,10/09/2023,Product Development,Individual Contributor,Involuntary
+EMP0567,08/07/2023,06/21/2024,Marketing,Individual Contributor,Voluntary
+EMP0568,03/07/2022,10/07/2023,Marketing,Individual Contributor,Layoff
+EMP0569,07/04/2022,,Engineering,Senior,
+EMP0570,03/20/2022,,Customer Support,Individual Contributor,
+EMP0571,03/03/2020,04/13/2022,HR,Lead,Voluntary
+EMP0572,07/26/2020,12/16/2023,HR,Manager,Voluntary
+EMP0573,07/21/2021,,Operations,Senior,
+EMP0574,11/07/2021,12/28/2021,Sales,Director,
+EMP0575,03/13/2022,,Finance,Individual Contributor,
+EMP0576,06/10/2021,07/23/2021,Operations,Individual Contributor,Voluntary
+EMP0577,06/18/2023,,Finance,Individual Contributor,
+EMP0578,08/03/2020,,Sales,Individual Contributor,
+EMP0579,08/26/2021,01/22/2022,Product Development,Individual Contributor,Involuntary
+EMP0580,03/21/2022,08/04/2023,Sales,Individual Contributor,Voluntary
+EMP0581,01/02/2024,,Marketing,Senior,
+EMP0582,12/19/2023,,Operations,Individual Contributor,
+EMP0583,06/20/2023,07/25/2023,Operations,Individual Contributor,Voluntary
+EMP0584,09/25/2022,02/12/2023,Product Development,Senior,Involuntary
+EMP0585,04/25/2021,06/13/2022,Finance,Individual Contributor,Voluntary
+EMP0586,11/18/2020,01/16/2024,HR,Individual Contributor,Voluntary
+EMP0587,08/27/2022,04/14/2023,HR,Individual Contributor,Involuntary
+EMP0588,10/13/2021,05/26/2022,HR,Individual Contributor,Voluntary
+EMP0589,03/20/2023,,Marketing,Individual Contributor,
+EMP0590,04/20/2024,,Sales,Manager,
+EMP0591,06/18/2022,11/01/2023,HR,Senior,Voluntary
+EMP0592,04/02/2021,,Finance,Senior,
+EMP0593,01/28/2021,12/07/2021,Customer Support,Individual Contributor,Voluntary
+EMP0594,12/12/2021,04/21/2023,Product Development,Manager,Voluntary
+EMP0595,11/18/2023,04/15/2025,HR,Individual Contributor,Involuntary
+EMP0596,09/19/2022,05/05/2023,Sales,Individual Contributor,Layoff
+EMP0597,06/06/2021,01/16/2022,Sales,Individual Contributor,Layoff
+EMP0598,09/03/2023,10/22/2023,Product Development,Manager,Involuntary
+EMP0599,03/13/2023,05/02/2023,Marketing,Individual Contributor,Involuntary
+EMP0600,03/14/2024,,Operations,Individual Contributor,
+EMP0601,08/09/2022,,Operations,Individual Contributor,
+EMP0602,03/12/2022,05/08/2022,Finance,Senior,Voluntary
+EMP0603,02/25/2022,,Engineering,Individual Contributor,
+EMP0604,03/05/2024,,Sales,Manager,
+EMP0605,10/09/2020,11/22/2023,Product Development,Individual Contributor,Involuntary
+EMP0606,10/28/2021,06/23/2024,Customer Support,Individual Contributor,Involuntary
+EMP0607,11/18/2024,,Sales,Individual Contributor,
+EMP0608,08/13/2020,07/02/2022,Operations,Individual Contributor,Involuntary
+EMP0609,02/07/2020,03/16/2020,Product Development,Senior,Involuntary
+EMP0610,08/25/2025,,Engineering,Individual Contributor,
+EMP0611,07/09/2024,,Sales,Individual Contributor,
+EMP0612,07/01/2025,,Sales,Senior,
+EMP0613,10/19/2022,09/15/2023,Operations,Manager,Voluntary
+EMP0614,10/25/2024,,Engineering,Senior,
+EMP0615,04/06/2021,,Marketing,Senior,
+EMP0616,03/07/2021,07/12/2023,Operations,Lead,Voluntary
+EMP0617,01/16/2022,,Finance,Individual Contributor,
+EMP0618,06/08/2023,07/17/2023,Finance,Individual Contributor,Voluntary
+EMP0619,05/19/2022,10/18/2024,Customer Support,Individual Contributor,Involuntary
+EMP0620,03/11/2022,08/05/2022,Operations,Senior,Voluntary
+EMP0621,02/22/2022,,HR,Individual Contributor,
+EMP0622,07/15/2020,11/17/2023,Marketing,Individual Contributor,Voluntary
+EMP0623,08/04/2020,12/26/2023,HR,Director,Voluntary
+EMP0624,10/17/2025,,Sales,Individual Contributor,
+EMP0625,07/06/2024,,Finance,Individual Contributor,
+EMP0626,01/16/2021,11/28/2021,Marketing,Individual Contributor,
+EMP0627,01/13/2023,,Engineering,Senior,
+EMP0628,10/08/2022,,Finance,Director,
+EMP0629,06/20/2023,,Finance,Senior,
+EMP0630,07/13/2022,06/01/2024,Engineering,Individual Contributor,Involuntary
+EMP0631,05/09/2023,10/06/2023,Sales,Individual Contributor,Involuntary
+EMP0632,11/26/2023,,HR,Senior,
+EMP0633,09/03/2023,,HR,Individual Contributor,
+EMP0634,07/14/2021,,Customer Support,Manager,
+EMP0635,10/17/2020,12/05/2020,Operations,Individual Contributor,
+EMP0636,03/08/2025,,Engineering,Senior,
+EMP0637,04/25/2024,,Finance,Individual Contributor,
+EMP0638,05/27/2024,07/25/2024,HR,Lead,Involuntary
+EMP0639,10/05/2022,11/07/2022,Marketing,Individual Contributor,Involuntary
+EMP0640,02/18/2021,01/16/2023,Product Development,Senior,Voluntary
+EMP0641,01/02/2020,02/28/2022,Operations,Senior,Involuntary
+EMP0642,02/21/2023,01/13/2024,Customer Support,Senior,Voluntary
+EMP0643,08/02/2021,,Sales,Individual Contributor,
+EMP0644,08/08/2021,01/01/2022,Customer Support,Individual Contributor,Voluntary
+EMP0645,08/19/2024,,Finance,Director,
+EMP0646,08/14/2023,07/13/2024,Marketing,Individual Contributor,Voluntary
+EMP0647,05/14/2021,09/18/2021,Customer Support,Individual Contributor,Voluntary
+EMP0648,07/19/2025,,Sales,Individual Contributor,
+EMP0649,11/08/2023,12/30/2023,Marketing,Lead,Voluntary
+EMP0650,02/11/2023,04/05/2023,Product Development,Individual Contributor,Involuntary
+EMP0651,02/28/2024,,Marketing,Senior,
+EMP0652,02/12/2022,03/21/2022,Sales,Individual Contributor,Voluntary
+EMP0653,10/06/2023,,Finance,Individual Contributor,
+EMP0654,08/17/2023,,Finance,Individual Contributor,
+EMP0655,09/03/2020,,Sales,Individual Contributor,
+EMP0656,02/09/2020,,Marketing,Manager,
+EMP0657,07/25/2021,11/28/2021,Operations,Manager,
+EMP0658,07/17/2022,11/29/2024,Operations,Senior,Voluntary
+EMP0659,06/05/2023,04/16/2025,Sales,Individual Contributor,Layoff
+EMP0660,04/09/2021,05/16/2021,Marketing,Lead,Involuntary
+EMP0661,01/16/2024,08/21/2024,Engineering,Senior,Voluntary
+EMP0662,01/22/2024,,Marketing,Lead,
+EMP0663,06/28/2022,11/25/2024,Sales,Individual Contributor,Involuntary
+EMP0664,09/15/2023,10/15/2023,Sales,Individual Contributor,Involuntary
+EMP0665,02/20/2020,03/26/2020,HR,Director,
+EMP0666,03/03/2021,07/15/2023,Finance,Manager,Voluntary
+EMP0667,08/09/2022,09/23/2024,Sales,Lead,Layoff
+EMP0668,12/11/2024,01/17/2025,HR,Individual Contributor,Voluntary
+EMP0669,07/05/2022,09/03/2022,Operations,Senior,Involuntary
+EMP0670,01/21/2021,,Sales,Manager,
+EMP0671,07/02/2022,,Operations,Senior,
+EMP0672,08/17/2020,,Engineering,Manager,
+EMP0673,09/24/2024,,Sales,Senior,
+EMP0674,10/19/2024,03/05/2025,Customer Support,Individual Contributor,Involuntary
+EMP0675,02/25/2020,10/01/2023,Sales,Individual Contributor,Voluntary
+EMP0676,08/02/2020,06/05/2024,Operations,Individual Contributor,Voluntary
+EMP0677,07/03/2025,,HR,Individual Contributor,
+EMP0678,02/20/2023,12/23/2023,HR,Individual Contributor,Voluntary
+EMP0679,09/14/2023,11/04/2023,Marketing,Individual Contributor,Voluntary
+EMP0680,09/09/2021,10/21/2023,Marketing,Manager,Voluntary
+EMP0681,07/05/2023,,Finance,Lead,
+EMP0682,04/17/2022,09/12/2022,Marketing,Individual Contributor,Voluntary
+EMP0683,09/08/2022,01/26/2023,HR,Senior,Involuntary
+EMP0684,08/27/2020,01/12/2021,Sales,Manager,
+EMP0685,09/03/2020,04/17/2023,Customer Support,Individual Contributor,Voluntary
+EMP0686,04/12/2021,05/18/2021,Sales,Manager,Voluntary
+EMP0687,05/05/2024,06/30/2024,Sales,Individual Contributor,Involuntary
+EMP0688,08/16/2022,09/21/2022,Marketing,Individual Contributor,Involuntary
+EMP0689,08/14/2021,,Engineering,Individual Contributor,
+EMP0690,07/27/2021,09/17/2021,Marketing,Senior,
+EMP0691,09/21/2022,05/03/2024,Operations,Senior,Voluntary
+EMP0692,11/20/2022,,Operations,Individual Contributor,
+EMP0693,01/12/2023,,HR,Senior,
+EMP0694,05/01/2022,12/19/2022,Customer Support,Lead,Involuntary
+EMP0695,11/10/2020,12/30/2020,Product Development,Individual Contributor,Voluntary
+EMP0696,10/26/2022,06/03/2023,Finance,Lead,Voluntary
+EMP0697,03/12/2023,,Marketing,Individual Contributor,
+EMP0698,09/12/2024,10/31/2024,Customer Support,Individual Contributor,Voluntary
+EMP0699,08/21/2022,01/01/2023,Finance,Manager,Voluntary
+EMP0700,07/14/2023,08/23/2023,Product Development,Individual Contributor,Voluntary
+EMP0701,04/21/2021,05/27/2023,Product Development,Senior,Involuntary
+EMP0702,10/17/2020,,Customer Support,Senior,
+EMP0703,03/24/2021,,Marketing,Individual Contributor,
+EMP0704,09/05/2021,04/25/2023,Product Development,Senior,Voluntary
+EMP0705,12/15/2022,,Engineering,Lead,
+EMP0706,08/13/2021,01/03/2022,Marketing,Individual Contributor,Voluntary
+EMP0707,05/13/2022,10/09/2022,HR,Individual Contributor,Voluntary
+EMP0708,08/25/2021,,Finance,Manager,
+EMP0709,09/27/2021,02/22/2022,Customer Support,Individual Contributor,Voluntary
+EMP0710,03/12/2021,04/19/2021,Marketing,Lead,
+EMP0711,08/15/2023,12/19/2024,Customer Support,Lead,Voluntary
+EMP0712,01/08/2024,,Sales,Individual Contributor,
+EMP0713,05/15/2021,06/26/2024,Finance,Manager,Voluntary
+EMP0714,06/23/2023,05/01/2024,Marketing,Lead,Voluntary
+EMP0715,11/21/2022,,Operations,Senior,
+EMP0716,06/20/2021,,Sales,Senior,
+EMP0717,11/05/2022,,Customer Support,Individual Contributor,
+EMP0718,01/17/2021,05/18/2021,Sales,Lead,Voluntary
+EMP0719,09/24/2020,,Sales,Manager,
+EMP0720,12/26/2021,02/09/2022,Operations,Individual Contributor,Involuntary
+EMP0721,06/19/2021,,Engineering,Individual Contributor,
+EMP0722,03/25/2021,08/18/2023,Finance,Manager,Voluntary
+EMP0723,06/19/2025,,Operations,Individual Contributor,
+EMP0724,11/14/2024,,Customer Support,Individual Contributor,
+EMP0725,03/15/2020,10/30/2020,Customer Support,Individual Contributor,Voluntary
+EMP0726,01/13/2020,05/13/2022,HR,Individual Contributor,Voluntary
+EMP0727,07/08/2020,02/15/2023,Finance,Lead,Voluntary
+EMP0728,05/10/2023,09/21/2023,Finance,Individual Contributor,Involuntary
+EMP0729,08/02/2023,,Finance,Individual Contributor,
+EMP0730,06/20/2023,04/27/2024,Finance,Senior,Voluntary
+EMP0731,05/02/2022,09/26/2022,HR,Lead,Voluntary
+EMP0732,08/12/2024,,Engineering,Individual Contributor,
+EMP0733,09/22/2021,02/11/2022,Operations,Senior,Involuntary
+EMP0734,09/01/2021,10/21/2021,Operations,Senior,Involuntary
+EMP0735,01/23/2022,12/02/2024,Sales,Senior,Involuntary
+EMP0736,02/20/2020,07/09/2020,Customer Support,Senior,
+EMP0737,06/06/2023,02/02/2025,Finance,Senior,Voluntary
+EMP0738,08/01/2020,09/22/2022,Operations,Individual Contributor,Voluntary
+EMP0739,05/01/2021,09/24/2021,Marketing,Individual Contributor,Involuntary
+EMP0740,03/08/2021,07/27/2021,Finance,Manager,
+EMP0741,01/18/2024,,Finance,Individual Contributor,
+EMP0742,06/14/2023,,HR,Individual Contributor,
+EMP0743,05/03/2023,,Customer Support,Individual Contributor,
+EMP0744,03/17/2021,07/22/2022,HR,Individual Contributor,Voluntary
+EMP0745,05/27/2021,01/04/2022,Customer Support,Individual Contributor,Voluntary
+EMP0746,11/25/2020,07/12/2021,Marketing,Senior,Voluntary
+EMP0747,02/18/2020,12/22/2022,Sales,Lead,Voluntary
+EMP0748,07/06/2022,11/13/2024,Sales,Senior,Voluntary
+EMP0749,11/08/2024,,Finance,Individual Contributor,
+EMP0750,03/23/2022,04/29/2022,Operations,Individual Contributor,Voluntary
+EMP0751,10/18/2022,,Sales,Senior,
+EMP0752,03/01/2021,07/28/2023,Customer Support,Manager,Involuntary
+EMP0753,03/19/2022,05/06/2024,Customer Support,Senior,Involuntary
+EMP0754,07/25/2022,11/25/2023,Sales,Individual Contributor,Voluntary
+EMP0755,01/23/2023,08/26/2023,Operations,Manager,Voluntary
+EMP0756,04/16/2023,,Finance,Senior,
+EMP0757,02/21/2025,,Engineering,Individual Contributor,
+EMP0758,06/21/2023,11/03/2024,Customer Support,Individual Contributor,Voluntary
+EMP0759,08/14/2024,,HR,Lead,
+EMP0760,09/22/2021,01/30/2022,Customer Support,Manager,Involuntary
+EMP0761,06/24/2022,,Finance,Individual Contributor,
+EMP0762,01/21/2021,,Customer Support,Lead,
+EMP0763,01/27/2021,,HR,Senior,
+EMP0764,06/16/2023,,Customer Support,Senior,
+EMP0765,10/07/2020,,Finance,Individual Contributor,
+EMP0766,09/17/2020,01/17/2022,Sales,Individual Contributor,Voluntary
+EMP0767,08/24/2023,01/05/2024,Sales,Lead,Involuntary
+EMP0768,11/28/2020,,Marketing,Senior,
+EMP0769,03/03/2022,,Operations,Manager,
+EMP0770,09/11/2022,07/22/2023,Product Development,Senior,Involuntary
+EMP0771,11/28/2022,,HR,Individual Contributor,
+EMP0772,09/27/2021,08/06/2022,Finance,Director,Voluntary
+EMP0773,08/07/2021,03/12/2023,Finance,Senior,Involuntary
+EMP0774,11/09/2023,,Engineering,Senior,
+EMP0775,08/05/2022,,Sales,Individual Contributor,
+EMP0776,08/01/2021,,Customer Support,Lead,
+EMP0777,08/25/2022,,Marketing,Manager,
+EMP0778,10/16/2023,,Operations,Manager,
+EMP0779,07/19/2023,03/17/2024,Marketing,Lead,Involuntary
+EMP0780,07/28/2021,03/12/2022,HR,Individual Contributor,Voluntary
+EMP0781,05/18/2023,07/04/2023,Marketing,Individual Contributor,Voluntary
+EMP0782,07/20/2021,,Marketing,Individual Contributor,
+EMP0783,05/17/2021,06/19/2023,Product Development,Individual Contributor,Voluntary
+EMP0784,11/07/2022,10/04/2023,Marketing,Senior,Voluntary
+EMP0785,11/11/2021,06/26/2023,Operations,Individual Contributor,Involuntary
+EMP0786,12/13/2020,01/21/2021,Product Development,Individual Contributor,
+EMP0787,10/22/2023,12/18/2023,HR,Individual Contributor,Involuntary
+EMP0788,03/01/2023,10/01/2023,HR,Lead,Layoff
+EMP0789,11/13/2024,,Operations,Individual Contributor,
+EMP0790,07/05/2021,02/11/2024,Operations,Individual Contributor,Voluntary
+EMP0791,09/28/2020,11/14/2023,Sales,Individual Contributor,Voluntary
+EMP0792,01/17/2022,09/13/2024,Finance,Individual Contributor,Layoff
+EMP0793,01/20/2024,,Customer Support,Individual Contributor,
+EMP0794,03/07/2020,07/16/2021,HR,Director,
+EMP0795,09/02/2024,,Engineering,Senior,
+EMP0796,10/08/2022,12/03/2023,Product Development,Senior,Voluntary
+EMP0797,02/01/2024,03/16/2024,Operations,Individual Contributor,Involuntary
+EMP0798,01/26/2023,12/08/2023,Product Development,Individual Contributor,Voluntary
+EMP0799,09/13/2022,01/28/2023,Product Development,Individual Contributor,Voluntary
+EMP0800,06/10/2021,01/16/2022,Finance,Individual Contributor,Voluntary
+EMP0801,09/04/2021,04/19/2025,Sales,Individual Contributor,Voluntary
+EMP0802,10/27/2022,,Marketing,Senior,
+EMP0803,02/06/2021,,Customer Support,Individual Contributor,
+EMP0804,01/28/2020,06/10/2023,HR,Individual Contributor,Layoff
+EMP0805,05/15/2022,,Finance,Senior,
+EMP0806,06/16/2024,08/01/2024,Operations,Individual Contributor,Voluntary
+EMP0807,10/06/2021,02/23/2022,Finance,Individual Contributor,Involuntary
+EMP0808,08/12/2020,12/14/2024,Operations,Individual Contributor,Voluntary
+EMP0809,10/10/2022,,Operations,Individual Contributor,
+EMP0810,11/23/2022,04/12/2024,HR,Senior,Involuntary
+EMP0811,02/24/2021,01/01/2025,HR,Individual Contributor,Voluntary
+EMP0812,07/01/2022,,Engineering,Individual Contributor,
+EMP0813,03/27/2023,02/21/2024,HR,Senior,Involuntary
+EMP0814,06/15/2024,,Sales,Senior,
+EMP0815,10/01/2022,05/13/2023,Sales,Lead,Voluntary
+EMP0816,12/15/2020,10/21/2023,Operations,Senior,Voluntary
+EMP0817,04/06/2022,05/18/2024,Marketing,Senior,Voluntary
+EMP0818,07/13/2021,,Engineering,Lead,
+EMP0819,12/09/2023,,Engineering,Manager,
+EMP0820,10/22/2021,09/06/2022,Operations,Lead,Voluntary
+EMP0821,03/12/2020,07/29/2020,Finance,Manager,Involuntary
+EMP0822,01/28/2022,,Operations,Individual Contributor,
+EMP0823,03/15/2023,07/16/2023,HR,Senior,Involuntary
+EMP0824,04/10/2022,,Marketing,Individual Contributor,
+EMP0825,12/02/2020,,Marketing,Senior,
+EMP0826,02/17/2023,04/10/2023,Product Development,Individual Contributor,Voluntary
+EMP0827,09/18/2023,11/03/2024,Marketing,Lead,Involuntary
+EMP0828,08/08/2024,12/18/2024,Operations,Senior,Voluntary
+EMP0829,07/27/2025,,Customer Support,Manager,
+EMP0830,09/16/2020,11/01/2021,Marketing,Manager,Voluntary
+EMP0831,10/01/2021,11/14/2022,Product Development,Senior,Voluntary
+EMP0832,07/19/2020,09/08/2023,Product Development,Individual Contributor,Voluntary
+EMP0833,09/02/2023,,Customer Support,Individual Contributor,
+EMP0834,01/01/2022,05/28/2022,Customer Support,Lead,Involuntary
+EMP0835,01/17/2022,,Engineering,Individual Contributor,
+EMP0836,06/15/2021,11/06/2022,Customer Support,Senior,Voluntary
+EMP0837,01/06/2021,08/07/2021,Sales,Senior,Voluntary
+EMP0838,02/02/2024,,HR,Individual Contributor,
+EMP0839,08/24/2022,07/15/2023,Customer Support,Individual Contributor,Voluntary
+EMP0840,10/24/2024,,Customer Support,Senior,
+EMP0841,06/28/2022,,Sales,Manager,
+EMP0842,01/09/2022,11/26/2022,Customer Support,Individual Contributor,Voluntary
+EMP0843,08/07/2023,03/31/2025,Sales,Individual Contributor,Voluntary
+EMP0844,08/20/2022,,Sales,Senior,
+EMP0845,06/20/2023,,Sales,Lead,
+EMP0846,03/05/2021,11/02/2021,Product Development,Lead,Voluntary
+EMP0847,06/05/2021,04/11/2023,HR,Individual Contributor,Voluntary
+EMP0848,08/25/2021,10/12/2022,Finance,Individual Contributor,Voluntary
+EMP0849,11/02/2022,,Finance,Individual Contributor,
+EMP0850,04/10/2022,03/08/2023,HR,Individual Contributor,Voluntary
+EMP0851,07/26/2023,,Operations,Individual Contributor,
+EMP0852,10/12/2023,,Marketing,Lead,
+EMP0853,12/02/2020,04/20/2021,HR,Individual Contributor,Voluntary
+EMP0854,11/16/2021,01/08/2022,Marketing,Individual Contributor,Voluntary
+EMP0855,09/13/2020,08/07/2021,HR,Individual Contributor,Voluntary
+EMP0856,10/28/2022,03/01/2023,Marketing,Individual Contributor,Involuntary
+EMP0857,05/20/2021,09/21/2023,HR,Individual Contributor,Involuntary
+EMP0858,03/05/2022,04/10/2024,Engineering,Individual Contributor,Voluntary
+EMP0859,04/01/2022,08/04/2023,Product Development,Individual Contributor,Involuntary
+EMP0860,05/11/2023,,HR,Individual Contributor,
+EMP0861,06/24/2023,,Engineering,Individual Contributor,
+EMP0862,07/15/2022,05/18/2023,HR,Lead,Voluntary
+EMP0863,03/06/2020,,Operations,Individual Contributor,
+EMP0864,03/07/2021,04/15/2024,Customer Support,Senior,Layoff
+EMP0865,02/23/2024,01/05/2025,Engineering,Senior,Involuntary
+EMP0866,02/22/2023,10/18/2023,HR,Lead,Voluntary
+EMP0867,01/17/2022,05/26/2022,HR,Senior,Voluntary
+EMP0868,01/20/2021,05/28/2023,Customer Support,Individual Contributor,Involuntary
+EMP0869,10/21/2023,,Sales,Individual Contributor,
+EMP0870,10/13/2022,12/03/2024,HR,Senior,Involuntary
+EMP0871,03/06/2021,,HR,Lead,
+EMP0872,01/02/2022,02/19/2022,HR,Individual Contributor,Voluntary
+EMP0873,07/09/2024,,Engineering,Individual Contributor,
+EMP0874,02/04/2022,03/09/2025,Marketing,Individual Contributor,Involuntary
+EMP0875,05/25/2022,10/16/2022,HR,Individual Contributor,Involuntary
+EMP0876,07/10/2020,,Marketing,Manager,
+EMP0877,08/22/2025,,Operations,Individual Contributor,
+EMP0878,07/15/2022,,Engineering,Individual Contributor,
+EMP0879,10/18/2024,,Engineering,Lead,
+EMP0880,04/20/2022,06/10/2025,Customer Support,Individual Contributor,Involuntary
+EMP0881,03/08/2020,04/25/2023,HR,Lead,Voluntary
+EMP0882,02/07/2025,,Customer Support,Lead,
+EMP0883,02/18/2021,04/03/2021,Customer Support,Individual Contributor,Involuntary
+EMP0884,08/16/2021,09/30/2021,Customer Support,Individual Contributor,Involuntary
+EMP0885,01/14/2025,,Customer Support,Individual Contributor,
+EMP0886,03/20/2023,,Operations,Lead,
+EMP0887,06/24/2024,,HR,Individual Contributor,
+EMP0888,01/08/2023,02/29/2024,Engineering,Senior,Voluntary
+EMP0889,08/21/2021,04/03/2022,Finance,Individual Contributor,Involuntary
+EMP0890,09/07/2021,01/12/2022,Product Development,Individual Contributor,Involuntary
+EMP0891,09/12/2022,,Finance,Individual Contributor,
+EMP0892,10/09/2024,,Finance,Individual Contributor,
+EMP0893,03/28/2023,08/22/2023,Finance,Individual Contributor,Involuntary
+EMP0894,01/12/2025,,Marketing,Senior,
+EMP0895,09/03/2022,,Sales,Senior,
+EMP0896,11/09/2020,12/27/2020,Operations,Individual Contributor,
+EMP0897,07/16/2025,,Operations,Individual Contributor,
+EMP0898,05/15/2022,01/01/2025,Finance,Senior,Involuntary
+EMP0899,07/17/2021,,Customer Support,Manager,
+EMP0900,05/12/2021,,Operations,Individual Contributor,
+EMP0901,02/25/2021,,Engineering,Senior,
+EMP0902,08/18/2021,10/03/2021,Finance,Individual Contributor,
+EMP0903,09/03/2024,,Marketing,Individual Contributor,
+EMP0904,01/06/2025,05/18/2025,Engineering,Individual Contributor,Voluntary
+EMP0905,11/02/2025,,Marketing,Lead,
+EMP0906,11/11/2021,,Operations,Individual Contributor,
+EMP0907,01/28/2024,,Engineering,Manager,
+EMP0908,06/26/2023,,Engineering,Manager,
+EMP0909,08/27/2023,,Customer Support,Senior,
+EMP0910,02/10/2022,,Finance,Individual Contributor,
+EMP0911,08/04/2025,,HR,Individual Contributor,
+EMP0912,01/04/2023,02/28/2023,Sales,Lead,Voluntary
+EMP0913,01/13/2021,05/25/2021,HR,Individual Contributor,Voluntary
+EMP0914,12/10/2020,04/10/2022,Operations,Individual Contributor,Voluntary
+EMP0915,02/01/2020,06/26/2020,Product Development,Individual Contributor,Layoff
+EMP0916,01/07/2021,02/12/2021,Finance,Lead,
+EMP0917,01/21/2020,03/11/2022,Sales,Lead,Voluntary
+EMP0918,02/15/2020,09/28/2022,Customer Support,Senior,Voluntary
+EMP0919,09/19/2023,,Marketing,Senior,
+EMP0920,10/16/2020,05/20/2021,HR,Senior,Layoff
+EMP0921,09/05/2022,10/25/2022,Customer Support,Individual Contributor,Involuntary
+EMP0922,10/21/2020,06/06/2025,Engineering,Manager,Involuntary
+EMP0923,07/12/2020,11/15/2021,Sales,Individual Contributor,Layoff
+EMP0924,09/22/2020,05/06/2021,Product Development,Lead,Layoff
+EMP0925,11/20/2023,,HR,Lead,
+EMP0926,08/08/2022,,Finance,Manager,
+EMP0927,04/01/2021,08/16/2022,Operations,Individual Contributor,Involuntary
+EMP0928,01/23/2023,06/07/2023,Finance,Individual Contributor,Involuntary
+EMP0929,05/26/2021,01/21/2024,Operations,Senior,Voluntary
+EMP0930,06/03/2024,08/01/2024,Finance,Senior,Voluntary
+EMP0931,03/06/2023,,Operations,Individual Contributor,
+EMP0932,05/19/2023,,Operations,Senior,
+EMP0933,09/07/2023,10/29/2023,Marketing,Individual Contributor,Voluntary
+EMP0934,09/18/2022,07/25/2023,Operations,Individual Contributor,Voluntary
+EMP0935,07/21/2023,,Engineering,Individual Contributor,
+EMP0936,07/18/2021,12/14/2023,Sales,Senior,Voluntary
+EMP0937,11/02/2021,03/06/2022,Sales,Manager,Voluntary
+EMP0938,02/14/2022,03/19/2022,Marketing,Individual Contributor,Involuntary
+EMP0939,04/28/2024,,Engineering,Manager,
+EMP0940,08/11/2022,06/25/2024,Marketing,Individual Contributor,Voluntary
+EMP0941,12/08/2023,,Customer Support,Individual Contributor,
+EMP0942,03/17/2022,,Operations,Individual Contributor,
+EMP0943,01/04/2022,,Engineering,Individual Contributor,
+EMP0944,08/07/2023,,Marketing,Manager,
+EMP0945,09/21/2021,,Sales,Senior,
+EMP0946,10/05/2024,11/26/2024,Marketing,Individual Contributor,Involuntary
+EMP0947,07/03/2022,03/03/2023,Product Development,Individual Contributor,Voluntary
+EMP0948,09/04/2020,,Engineering,Director,
+EMP0949,07/17/2023,,Finance,Manager,
+EMP0950,08/25/2023,,Finance,Individual Contributor,
+EMP0951,08/04/2024,,Engineering,Individual Contributor,
+EMP0952,01/02/2021,,Sales,Individual Contributor,
+EMP0953,02/19/2024,,Engineering,Senior,
+EMP0954,01/12/2020,08/26/2023,Finance,Individual Contributor,Involuntary
+EMP0955,09/10/2022,10/21/2022,Customer Support,Individual Contributor,Involuntary
+EMP0956,05/24/2021,10/23/2021,Marketing,Individual Contributor,Voluntary
+EMP0957,06/26/2021,01/29/2023,Marketing,Senior,Voluntary
+EMP0958,04/17/2024,,Operations,Senior,
+EMP0959,10/11/2021,12/07/2021,Finance,Manager,Involuntary
+EMP0960,01/03/2020,02/26/2021,Customer Support,Individual Contributor,
+EMP0961,02/08/2024,07/01/2024,Customer Support,Senior,Voluntary
+EMP0962,03/01/2022,,Operations,Manager,
+EMP0963,01/07/2024,09/02/2024,Sales,Individual Contributor,Voluntary
+EMP0964,02/04/2020,06/20/2020,Product Development,Senior,Layoff
+EMP0965,10/26/2022,06/11/2024,Operations,Individual Contributor,Layoff
+EMP0966,03/23/2020,04/25/2020,Product Development,Individual Contributor,
+EMP0967,02/20/2024,,Operations,Senior,
+EMP0968,07/12/2021,03/12/2022,Customer Support,Individual Contributor,Voluntary
+EMP0969,07/03/2025,,Sales,Director,
+EMP0970,08/02/2022,03/02/2023,Product Development,Individual Contributor,Voluntary
+EMP0971,07/11/2022,02/12/2023,Finance,Individual Contributor,Voluntary
+EMP0972,10/03/2020,11/22/2020,Product Development,Director,
+EMP0973,07/01/2023,08/02/2023,Customer Support,Individual Contributor,Voluntary
+EMP0974,05/04/2022,09/24/2024,Operations,Individual Contributor,Involuntary
+EMP0975,01/04/2023,02/14/2025,Finance,Senior,Voluntary
+EMP0976,08/27/2023,10/13/2023,Marketing,Individual Contributor,Voluntary
+EMP0977,03/08/2021,10/28/2021,Product Development,Individual Contributor,
+EMP0978,12/28/2021,05/09/2022,Sales,Lead,Involuntary
+EMP0979,05/17/2021,06/30/2021,Marketing,Individual Contributor,Involuntary
+EMP0980,06/26/2021,,Customer Support,Senior,
+EMP0981,09/04/2021,10/23/2021,Operations,Senior,Voluntary
+EMP0982,02/08/2023,10/03/2023,Operations,Lead,Layoff
+EMP0983,01/07/2022,08/12/2024,Operations,Manager,Voluntary
+EMP0984,12/20/2022,04/27/2023,Operations,Individual Contributor,Involuntary
+EMP0985,11/25/2023,,Finance,Senior,
+EMP0986,12/03/2022,07/25/2023,Operations,Manager,Voluntary
+EMP0987,02/09/2020,10/05/2020,Sales,Individual Contributor,
+EMP0988,07/02/2021,05/10/2022,Sales,Individual Contributor,Voluntary
+EMP0989,07/07/2022,08/30/2022,Marketing,Director,Involuntary
+EMP0990,08/19/2022,,Finance,Individual Contributor,
+EMP0991,09/23/2023,,Customer Support,Individual Contributor,
+EMP0992,07/24/2023,,HR,Individual Contributor,
+EMP0993,10/20/2021,09/02/2023,Marketing,Lead,Voluntary
+EMP0994,08/02/2020,09/06/2020,Finance,Individual Contributor,Involuntary
+EMP0995,07/12/2023,08/28/2023,Finance,Lead,Voluntary
+EMP0996,04/04/2021,02/23/2022,Finance,Lead,Voluntary
+EMP0997,01/27/2021,03/19/2021,Finance,Senior,
+EMP0998,09/04/2021,10/14/2021,Finance,Lead,Voluntary
+EMP0999,12/07/2020,05/04/2021,Operations,Manager,Involuntary
+EMP1000,01/09/2020,08/19/2022,Finance,Individual Contributor,Voluntary
+EMP1001,07/21/2022,03/20/2023,Product Development,Senior,Voluntary
+EMP1002,06/24/2021,,Sales,Individual Contributor,
+EMP1003,07/10/2022,12/01/2023,Product Development,Individual Contributor,Voluntary
+EMP1004,01/11/2021,02/18/2024,Operations,Senior,Voluntary
+EMP1005,01/28/2021,,Marketing,Individual Contributor,
+EMP1006,05/10/2023,09/24/2023,HR,Individual Contributor,Involuntary
+EMP1007,01/24/2025,,Operations,Lead,
+EMP1008,06/01/2021,,Customer Support,Director,
+EMP1009,02/01/2023,03/22/2025,Marketing,Individual Contributor,Voluntary
+EMP1010,10/10/2023,,Finance,Individual Contributor,
+EMP1011,01/07/2021,05/22/2021,Sales,Senior,Voluntary
+EMP1012,06/08/2022,10/12/2024,Marketing,Manager,Voluntary
+EMP1013,05/05/2021,06/17/2023,Sales,Senior,Voluntary
+EMP1014,07/26/2021,09/19/2023,Finance,Individual Contributor,Voluntary
+EMP1015,06/08/2022,,Engineering,Individual Contributor,
+EMP1016,02/24/2023,03/30/2023,Sales,Individual Contributor,Involuntary
+EMP1017,03/21/2023,,Engineering,Lead,
+EMP1018,01/10/2022,,Customer Support,Senior,
+EMP1019,03/10/2025,,Operations,Individual Contributor,
+EMP1020,02/21/2020,07/12/2024,Engineering,Manager,Voluntary
+EMP1021,01/23/2022,06/06/2022,Product Development,Individual Contributor,Involuntary
+EMP1022,07/08/2020,,Customer Support,Individual Contributor,
+EMP1023,11/11/2020,12/18/2023,Operations,Lead,Voluntary
+EMP1024,10/21/2021,02/22/2024,Engineering,Senior,Voluntary
+EMP1025,09/28/2021,05/11/2024,Engineering,Senior,Voluntary
+EMP1026,07/15/2021,09/02/2021,Product Development,Individual Contributor,Involuntary
+EMP1027,10/04/2023,08/05/2024,Sales,Lead,Voluntary
+EMP1028,05/25/2025,,Finance,Individual Contributor,
+EMP1029,05/28/2022,07/17/2023,Finance,Individual Contributor,Layoff
+EMP1030,04/18/2022,09/10/2024,Engineering,Lead,Voluntary
+EMP1031,09/27/2022,11/25/2022,Sales,Senior,Voluntary
+EMP1032,02/05/2021,03/12/2025,Customer Support,Individual Contributor,Voluntary
+EMP1033,03/24/2020,,Marketing,Individual Contributor,
+EMP1034,04/05/2024,,Engineering,Manager,
+EMP1035,10/15/2022,,Marketing,Individual Contributor,
+EMP1036,08/13/2022,01/04/2023,Marketing,Individual Contributor,Involuntary
+EMP1037,03/05/2021,01/27/2022,HR,Individual Contributor,Voluntary
+EMP1038,07/22/2023,,Marketing,Individual Contributor,
+EMP1039,08/05/2023,12/18/2023,Sales,Senior,Voluntary
+EMP1040,06/09/2021,11/01/2021,Marketing,Individual Contributor,
+EMP1041,07/22/2020,03/18/2023,Customer Support,Senior,Voluntary
+EMP1042,07/24/2022,,Operations,Manager,
+EMP1043,01/20/2022,03/12/2024,Sales,Individual Contributor,Voluntary
+EMP1044,07/20/2021,,Engineering,Individual Contributor,
+EMP1045,06/18/2021,01/27/2022,Customer Support,Lead,Voluntary
+EMP1046,08/11/2022,01/09/2025,Engineering,Individual Contributor,Involuntary
+EMP1047,03/03/2023,,Marketing,Director,
+EMP1048,08/04/2022,,Marketing,Individual Contributor,
+EMP1049,02/10/2021,07/01/2021,Sales,Lead,
+EMP1050,01/12/2022,05/15/2022,HR,Manager,Involuntary
+EMP1051,09/18/2024,,Marketing,Senior,
+EMP1052,12/02/2023,,Operations,Senior,
+EMP1053,04/14/2023,08/27/2023,Customer Support,Individual Contributor,Voluntary
+EMP1054,02/20/2020,,Operations,Individual Contributor,
+EMP1055,11/23/2021,04/13/2022,Customer Support,Senior,Voluntary
+EMP1056,01/19/2020,,Marketing,Individual Contributor,
+EMP1057,03/17/2022,,Finance,Senior,
+EMP1058,11/19/2020,,Sales,Senior,
+EMP1059,09/06/2020,,Customer Support,Manager,
+EMP1060,03/16/2022,07/25/2023,Sales,Director,Involuntary
+EMP1061,06/23/2023,,Customer Support,Individual Contributor,
+EMP1062,10/12/2020,,Operations,Individual Contributor,
+EMP1063,06/27/2022,11/23/2023,Operations,Senior,Voluntary
+EMP1064,11/25/2022,03/30/2023,HR,Individual Contributor,Voluntary
+EMP1065,03/13/2022,11/02/2022,HR,Individual Contributor,Voluntary
+EMP1066,12/10/2023,01/14/2025,Engineering,Senior,Voluntary
+EMP1067,07/14/2022,09/07/2024,Operations,Lead,Voluntary
+EMP1068,01/08/2022,05/30/2022,HR,Manager,Voluntary
+EMP1069,09/14/2021,01/16/2022,Sales,Individual Contributor,Involuntary
+EMP1070,10/13/2023,,Operations,Director,
+EMP1071,02/08/2025,,Marketing,Lead,
+EMP1072,12/25/2021,,Customer Support,Individual Contributor,
+EMP1073,01/07/2022,,HR,Individual Contributor,
+EMP1074,07/26/2025,,Marketing,Senior,
+EMP1075,01/04/2021,,Engineering,Lead,
+EMP1076,03/19/2024,,Engineering,Director,
+EMP1077,05/28/2023,,Finance,Senior,
+EMP1078,03/22/2021,05/10/2022,Customer Support,Manager,Voluntary
+EMP1079,09/24/2020,,Engineering,Senior,
+EMP1080,11/13/2025,,Marketing,Manager,
+EMP1081,12/01/2020,,Sales,Senior,
+EMP1082,01/21/2022,11/30/2022,Finance,Senior,Voluntary
+EMP1083,08/25/2023,,Operations,Senior,
+EMP1084,11/05/2024,,Operations,Director,
+EMP1085,03/06/2022,04/17/2022,Finance,Senior,Involuntary
+EMP1086,06/03/2025,,Marketing,Individual Contributor,
+EMP1087,09/01/2020,04/18/2023,Product Development,Individual Contributor,Voluntary
+EMP1088,09/16/2024,,Engineering,Individual Contributor,
+EMP1089,03/24/2021,08/15/2021,HR,Individual Contributor,Involuntary
+EMP1090,08/08/2020,04/06/2022,Sales,Individual Contributor,Voluntary
+EMP1091,08/16/2022,04/04/2025,Sales,Individual Contributor,Voluntary
+EMP1092,07/03/2023,,Customer Support,Lead,
+EMP1093,07/04/2021,09/02/2021,Finance,Individual Contributor,Voluntary
+EMP1094,09/13/2022,11/07/2024,Sales,Director,Involuntary
+EMP1095,01/25/2021,03/17/2023,Finance,Senior,Involuntary
+EMP1096,03/26/2020,04/27/2020,Sales,Senior,Layoff
+EMP1097,04/25/2023,,Marketing,Senior,
+EMP1098,05/26/2024,,Engineering,Lead,
+EMP1099,03/08/2020,04/20/2025,Finance,Individual Contributor,Voluntary
+EMP1100,09/09/2022,,HR,Manager,
+EMP1101,08/21/2024,,Sales,Manager,
+EMP1102,07/17/2023,11/26/2023,HR,Director,Involuntary
+EMP1103,06/26/2021,02/19/2024,Finance,Lead,Voluntary
+EMP1104,03/05/2021,,Sales,Lead,
+EMP1105,04/08/2021,02/15/2024,HR,Senior,Voluntary
+EMP1106,09/21/2020,08/14/2023,HR,Individual Contributor,Involuntary
+EMP1107,01/18/2023,09/16/2023,Customer Support,Individual Contributor,Voluntary
+EMP1108,05/18/2024,,Engineering,Lead,
+EMP1109,08/24/2024,03/25/2025,Operations,Manager,Voluntary
+EMP1110,04/12/2023,,HR,Individual Contributor,
+EMP1111,03/06/2022,07/24/2023,HR,Individual Contributor,Voluntary
+EMP1112,12/05/2025,,Sales,Individual Contributor,
+EMP1113,10/18/2023,11/23/2023,Product Development,Individual Contributor,Involuntary
+EMP1114,10/20/2023,,Customer Support,Manager,
+EMP1115,02/28/2020,07/21/2020,Product Development,Individual Contributor,Involuntary
+EMP1116,05/07/2022,,Operations,Individual Contributor,
+EMP1117,02/18/2020,06/23/2021,HR,Lead,Voluntary
+EMP1118,01/06/2021,08/24/2021,Finance,Individual Contributor,
+EMP1119,06/01/2022,07/21/2022,Marketing,Individual Contributor,Voluntary
+EMP1120,03/19/2024,08/15/2024,Finance,Lead,Voluntary
+EMP1121,01/22/2022,03/10/2022,Marketing,Manager,Voluntary
+EMP1122,09/26/2024,02/06/2025,Customer Support,Individual Contributor,Voluntary
+EMP1123,11/15/2020,,Sales,Senior,
+EMP1124,04/23/2023,06/02/2023,Customer Support,Individual Contributor,Involuntary
+EMP1125,06/27/2023,01/31/2024,Finance,Individual Contributor,Voluntary
+EMP1126,03/12/2020,08/08/2020,Finance,Individual Contributor,Voluntary
+EMP1127,01/07/2023,03/08/2025,Marketing,Senior,Voluntary
+EMP1128,04/05/2023,05/24/2023,Marketing,Lead,Involuntary
+EMP1129,06/02/2022,,Engineering,Individual Contributor,
+EMP1130,10/13/2020,,Finance,Manager,
+EMP1131,04/12/2022,02/27/2023,Product Development,Individual Contributor,Voluntary
+EMP1132,07/28/2021,06/19/2022,Finance,Individual Contributor,Layoff
+EMP1133,06/05/2023,10/16/2023,Customer Support,Individual Contributor,Voluntary
+EMP1134,03/01/2024,,Engineering,Manager,
+EMP1135,03/18/2021,,Marketing,Individual Contributor,
+EMP1136,07/09/2020,08/22/2020,Finance,Individual Contributor,
+EMP1137,09/03/2020,01/04/2024,Operations,Individual Contributor,Involuntary
+EMP1138,09/23/2020,,Customer Support,Individual Contributor,
+EMP1139,02/20/2022,03/22/2022,Product Development,Senior,Voluntary
+EMP1140,03/24/2021,05/20/2022,HR,Individual Contributor,Voluntary
+EMP1141,06/22/2022,01/22/2023,Marketing,Individual Contributor,Voluntary
+EMP1142,06/12/2025,,Operations,Senior,
+EMP1143,03/22/2020,05/08/2020,Operations,Individual Contributor,
+EMP1144,03/27/2022,02/06/2023,Product Development,Director,Voluntary
+EMP1145,09/05/2021,04/05/2023,Operations,Senior,Voluntary
+EMP1146,01/09/2020,08/25/2021,Customer Support,Individual Contributor,Voluntary
+EMP1147,01/28/2020,06/19/2020,Sales,Individual Contributor,Layoff
+EMP1148,08/25/2021,10/01/2023,Product Development,Manager,Layoff
+EMP1149,12/21/2023,05/20/2024,Sales,Lead,Voluntary
+EMP1150,06/11/2021,01/22/2022,Sales,Individual Contributor,Voluntary
+EMP1151,08/18/2023,,Marketing,Lead,
+EMP1152,08/16/2020,09/21/2022,Marketing,Individual Contributor,Voluntary
+EMP1153,01/18/2021,12/14/2021,Marketing,Senior,Involuntary
+EMP1154,04/13/2024,,Operations,Individual Contributor,
+EMP1155,07/11/2020,09/03/2020,Product Development,Individual Contributor,Voluntary
+EMP1156,03/28/2021,10/28/2024,Sales,Senior,Involuntary
+EMP1157,01/04/2023,02/23/2023,Sales,Manager,Voluntary
+EMP1158,04/13/2023,11/26/2023,Customer Support,Senior,Voluntary
+EMP1159,10/26/2020,,Sales,Director,
+EMP1160,02/28/2021,04/20/2022,Sales,Individual Contributor,Layoff
+EMP1161,08/12/2023,,HR,Individual Contributor,
+EMP1162,03/11/2022,10/23/2023,HR,Director,Voluntary
+EMP1163,04/05/2023,08/08/2023,Customer Support,Senior,Voluntary
+EMP1164,03/17/2023,,Marketing,Lead,
+EMP1165,06/11/2022,01/25/2023,Product Development,Senior,Layoff
+EMP1166,03/26/2020,11/14/2021,Finance,Lead,
+EMP1167,06/11/2022,07/15/2022,Finance,Individual Contributor,Involuntary
+EMP1168,09/09/2024,,Operations,Lead,
+EMP1169,12/04/2020,07/29/2023,HR,Individual Contributor,Voluntary
+EMP1170,09/14/2021,07/31/2024,Sales,Manager,Voluntary
+EMP1171,01/19/2020,,Customer Support,Manager,
+EMP1172,05/03/2024,06/06/2024,Engineering,Senior,Voluntary
+EMP1173,05/03/2022,,Marketing,Manager,
+EMP1174,10/26/2020,,HR,Individual Contributor,
+EMP1175,04/01/2021,02/17/2022,Product Development,Lead,Voluntary
+EMP1176,01/16/2022,12/15/2024,HR,Lead,Voluntary
+EMP1177,09/21/2021,11/10/2023,Operations,Individual Contributor,Voluntary
+EMP1178,07/01/2025,,HR,Individual Contributor,
+EMP1179,04/20/2022,06/12/2025,Sales,Senior,Voluntary
+EMP1180,01/09/2020,12/03/2020,Marketing,Director,Layoff
+EMP1181,10/11/2023,,Sales,Individual Contributor,
+EMP1182,07/05/2023,08/28/2023,Sales,Manager,Involuntary
+EMP1183,09/08/2021,10/23/2021,Customer Support,Individual Contributor,Voluntary
+EMP1184,07/20/2020,12/01/2020,Sales,Individual Contributor,
+EMP1185,07/21/2023,11/27/2023,HR,Senior,Voluntary
+EMP1186,02/23/2023,07/08/2023,Marketing,Director,Voluntary
+EMP1187,07/13/2025,,Engineering,Individual Contributor,
+EMP1188,09/28/2021,11/07/2023,Marketing,Senior,Voluntary
+EMP1189,05/10/2021,,Operations,Individual Contributor,
+EMP1190,04/23/2025,,Finance,Senior,
+EMP1191,10/03/2021,11/30/2021,Operations,Senior,Voluntary
+EMP1192,02/28/2023,06/29/2023,Product Development,Individual Contributor,Involuntary
+EMP1193,11/25/2025,,Sales,Individual Contributor,
+EMP1194,02/28/2021,10/06/2021,Finance,Individual Contributor,Voluntary
+EMP1195,06/07/2021,10/07/2021,Marketing,Individual Contributor,Involuntary
+EMP1196,01/17/2025,,Marketing,Individual Contributor,
+EMP1197,07/18/2020,09/08/2021,Finance,Individual Contributor,Voluntary
+EMP1198,06/03/2022,10/03/2023,Customer Support,Individual Contributor,Voluntary
+EMP1199,11/15/2021,,Operations,Individual Contributor,
+EMP1200,06/24/2022,08/07/2022,Product Development,Lead,Voluntary
+EMP1201,12/07/2020,10/24/2023,Finance,Individual Contributor,Voluntary
+EMP1202,10/19/2025,,Operations,Individual Contributor,
+EMP1203,01/04/2022,02/20/2025,Marketing,Senior,Voluntary
+EMP1204,07/16/2025,,Engineering,Lead,
+EMP1205,08/20/2023,01/14/2024,HR,Individual Contributor,Involuntary
+EMP1206,07/13/2021,,Operations,Individual Contributor,
+EMP1207,04/22/2021,,Sales,Individual Contributor,
+EMP1208,05/16/2022,07/01/2022,HR,Senior,Voluntary
+EMP1209,10/04/2022,02/21/2023,Finance,Individual Contributor,Involuntary
+EMP1210,10/26/2022,12/05/2022,Sales,Individual Contributor,Voluntary
+EMP1211,03/22/2024,,Customer Support,Lead,
+EMP1212,08/14/2023,09/20/2023,Customer Support,Individual Contributor,Involuntary
+EMP1213,01/14/2025,,Sales,Senior,
+EMP1214,06/26/2022,08/05/2024,Engineering,Individual Contributor,Layoff
+EMP1215,04/25/2021,03/03/2024,Marketing,Individual Contributor,Involuntary
+EMP1216,09/10/2022,,HR,Senior,
+EMP1217,08/23/2022,04/18/2023,HR,Individual Contributor,Layoff
+EMP1218,07/13/2022,,Marketing,Manager,
+EMP1219,05/01/2022,,Engineering,Director,
+EMP1220,11/16/2023,06/22/2024,Finance,Individual Contributor,Voluntary
+EMP1221,01/11/2023,09/07/2024,HR,Individual Contributor,Voluntary
+EMP1222,05/20/2021,,HR,Individual Contributor,
+EMP1223,10/16/2023,,Operations,Senior,
+EMP1224,02/07/2022,12/24/2023,Sales,Individual Contributor,Voluntary
+EMP1225,05/25/2021,07/01/2021,Sales,Individual Contributor,Voluntary
+EMP1226,09/01/2020,10/01/2023,Customer Support,Senior,Voluntary
+EMP1227,07/28/2020,12/08/2020,Customer Support,Lead,Voluntary
+EMP1228,01/20/2022,03/17/2022,Customer Support,Individual Contributor,Involuntary
+EMP1229,09/01/2021,,Sales,Individual Contributor,
+EMP1230,08/18/2024,,Marketing,Individual Contributor,
+EMP1231,12/16/2025,,Operations,Manager,
+EMP1232,06/05/2024,,Customer Support,Senior,
+EMP1233,10/15/2022,,Finance,Lead,
+EMP1234,10/17/2021,05/18/2022,Product Development,Senior,Voluntary
+EMP1235,09/23/2023,,Customer Support,Senior,
+EMP1236,06/28/2022,11/18/2023,Product Development,Senior,Involuntary
+EMP1237,01/11/2022,06/03/2024,Sales,Lead,Voluntary
+EMP1238,08/24/2024,01/10/2025,Engineering,Individual Contributor,Involuntary
+EMP1239,08/10/2021,06/13/2022,Product Development,Senior,Involuntary
+EMP1240,06/01/2021,07/03/2022,Operations,Senior,Voluntary
+EMP1241,08/11/2022,,Sales,Individual Contributor,
+EMP1242,09/01/2023,01/01/2024,Customer Support,Manager,Voluntary
+EMP1243,01/23/2022,,Customer Support,Individual Contributor,
+EMP1244,06/21/2022,11/16/2023,Sales,Individual Contributor,Involuntary
+EMP1245,07/28/2021,06/13/2022,Marketing,Senior,Voluntary
+EMP1246,05/05/2024,10/04/2024,Finance,Senior,Voluntary
+EMP1247,07/17/2022,,Marketing,Lead,
+EMP1248,12/17/2023,04/24/2024,Sales,Lead,Involuntary
+EMP1249,02/06/2024,,Sales,Senior,
+EMP1250,04/08/2021,,Marketing,Individual Contributor,
+EMP1251,07/26/2021,08/27/2021,Customer Support,Individual Contributor,Involuntary
+EMP1252,02/28/2020,,Finance,Lead,
+EMP1253,03/04/2021,07/22/2023,Marketing,Senior,Voluntary
+EMP1254,12/03/2025,,Engineering,Director,
+EMP1255,12/21/2023,,HR,Lead,
+EMP1256,04/20/2025,05/25/2025,Finance,Individual Contributor,Involuntary
+EMP1257,11/27/2022,10/01/2023,Operations,Lead,Layoff
+EMP1258,02/14/2021,09/23/2021,HR,Senior,Involuntary
+EMP1259,06/28/2021,08/26/2023,Sales,Senior,Layoff
+EMP1260,08/22/2021,01/19/2025,Engineering,Individual Contributor,Voluntary
+EMP1261,02/11/2022,12/24/2022,Marketing,Senior,Involuntary
+EMP1262,01/19/2023,,Operations,Lead,
+EMP1263,08/12/2020,03/15/2021,Marketing,Individual Contributor,Voluntary
+EMP1264,12/19/2021,04/24/2022,Operations,Senior,Involuntary
+EMP1265,09/01/2021,,Operations,Individual Contributor,
+EMP1266,10/05/2023,,Operations,Senior,
+EMP1267,03/08/2021,,Engineering,Individual Contributor,
+EMP1268,03/07/2021,04/16/2021,Finance,Senior,
+EMP1269,07/06/2020,11/09/2022,Product Development,Individual Contributor,Voluntary
+EMP1270,07/09/2025,,Finance,Individual Contributor,
+EMP1271,09/28/2020,07/29/2022,Operations,Director,Layoff
+EMP1272,02/24/2020,10/03/2021,Finance,Senior,
+EMP1273,04/23/2023,06/03/2025,Customer Support,Senior,Voluntary
+EMP1274,04/28/2024,,Sales,Individual Contributor,
+EMP1275,02/28/2020,04/04/2020,Marketing,Senior,Layoff
+EMP1276,08/13/2023,04/02/2024,Finance,Manager,Layoff
+EMP1277,04/14/2023,,Customer Support,Lead,
+EMP1278,01/08/2022,08/21/2023,Marketing,Individual Contributor,Voluntary
+EMP1279,12/06/2021,01/17/2022,Sales,Senior,Voluntary
+EMP1280,02/05/2021,07/02/2022,Customer Support,Lead,Voluntary
+EMP1281,03/02/2022,,Engineering,Individual Contributor,
+EMP1282,03/04/2021,07/22/2023,Customer Support,Lead,Layoff
+EMP1283,02/25/2021,07/06/2022,Marketing,Individual Contributor,Voluntary
+EMP1284,07/19/2020,11/19/2020,Product Development,Lead,
+EMP1285,12/10/2021,01/25/2022,Product Development,Individual Contributor,Involuntary
+EMP1286,08/07/2023,,Customer Support,Director,
+EMP1287,05/04/2022,,Marketing,Senior,
+EMP1288,05/23/2021,09/25/2023,Sales,Lead,Voluntary
+EMP1289,03/05/2023,,Customer Support,Individual Contributor,
+EMP1290,01/19/2022,06/03/2024,Marketing,Individual Contributor,Layoff
+EMP1291,07/03/2022,08/11/2022,Marketing,Senior,Involuntary
+EMP1292,08/10/2021,12/31/2023,Product Development,Individual Contributor,Voluntary
+EMP1293,07/05/2022,12/02/2022,Operations,Senior,Voluntary
+EMP1294,08/20/2020,07/14/2021,Customer Support,Individual Contributor,Voluntary
+EMP1295,08/15/2022,09/18/2022,Product Development,Individual Contributor,Voluntary
+EMP1296,06/18/2021,08/12/2024,Sales,Individual Contributor,Voluntary
+EMP1297,12/09/2023,01/30/2025,Sales,Individual Contributor,Voluntary
+EMP1298,02/07/2020,10/01/2021,Customer Support,Manager,Voluntary
+EMP1299,07/14/2021,11/29/2021,Product Development,Individual Contributor,Involuntary
+EMP1300,03/24/2022,,Sales,Senior,
+EMP1301,05/23/2022,07/08/2022,Sales,Individual Contributor,Voluntary
+EMP1302,04/16/2023,,Operations,Manager,
+EMP1303,09/04/2020,07/16/2021,HR,Individual Contributor,Voluntary
+EMP1304,07/27/2023,06/09/2024,Finance,Senior,Voluntary
+EMP1305,03/03/2021,04/21/2024,Customer Support,Individual Contributor,Involuntary
+EMP1306,02/12/2020,06/23/2021,Operations,Senior,Layoff
+EMP1307,01/09/2021,,Customer Support,Individual Contributor,
+EMP1308,02/18/2020,,Customer Support,Individual Contributor,
+EMP1309,01/25/2025,06/05/2025,HR,Manager,Voluntary
+EMP1310,01/09/2022,08/30/2024,HR,Individual Contributor,Voluntary
+EMP1311,03/28/2020,08/12/2024,Operations,Lead,Involuntary
+EMP1312,10/06/2022,,Sales,Director,
+EMP1313,11/23/2022,01/14/2024,HR,Individual Contributor,Layoff
+EMP1314,06/15/2021,04/20/2024,Marketing,Individual Contributor,Voluntary
+EMP1315,06/22/2023,,Sales,Lead,
+EMP1316,04/18/2025,,Engineering,Individual Contributor,
+EMP1317,02/05/2022,,Engineering,Lead,
+EMP1318,10/26/2021,03/22/2022,Product Development,Individual Contributor,Voluntary
+EMP1319,01/28/2020,06/12/2020,Product Development,Manager,Layoff
+EMP1320,05/21/2022,06/29/2022,HR,Individual Contributor,Voluntary
+EMP1321,09/05/2025,,Finance,Senior,
+EMP1322,08/28/2024,,Marketing,Individual Contributor,
+EMP1323,05/27/2023,07/04/2024,Customer Support,Individual Contributor,Involuntary
+EMP1324,06/10/2021,07/17/2021,Marketing,Individual Contributor,
+EMP1325,12/25/2021,10/27/2023,HR,Senior,Involuntary
+EMP1326,11/02/2021,06/07/2025,Engineering,Senior,Voluntary
+EMP1327,12/19/2024,,HR,Senior,
+EMP1328,03/06/2022,10/16/2023,Sales,Individual Contributor,Voluntary
+EMP1329,07/21/2023,,Sales,Individual Contributor,
+EMP1330,01/22/2022,05/26/2022,Finance,Individual Contributor,Involuntary
+EMP1331,08/11/2023,09/24/2023,Finance,Director,Involuntary
+EMP1332,09/01/2024,10/01/2024,Operations,Lead,Involuntary
+EMP1333,03/22/2023,07/29/2023,Finance,Individual Contributor,Voluntary
+EMP1334,07/06/2022,,Operations,Director,
+EMP1335,06/03/2021,01/19/2022,Operations,Individual Contributor,Involuntary
+EMP1336,01/26/2022,,Operations,Individual Contributor,
+EMP1337,12/25/2020,10/29/2023,Product Development,Individual Contributor,Voluntary
+EMP1338,03/06/2024,,Customer Support,Lead,
+EMP1339,06/02/2023,,HR,Individual Contributor,
+EMP1340,01/01/2024,,Customer Support,Individual Contributor,
+EMP1341,03/26/2024,05/18/2024,Engineering,Individual Contributor,Involuntary
+EMP1342,01/17/2024,12/11/2024,Engineering,Individual Contributor,Layoff
+EMP1343,02/04/2023,03/17/2024,Finance,Individual Contributor,Voluntary
+EMP1344,11/09/2023,,HR,Individual Contributor,
+EMP1345,06/13/2025,,HR,Individual Contributor,
+EMP1346,01/22/2020,09/07/2022,Customer Support,Lead,Layoff
+EMP1347,10/16/2021,03/08/2022,HR,Lead,Voluntary
+EMP1348,01/01/2022,,Engineering,Senior,
+EMP1349,05/22/2021,01/10/2023,HR,Individual Contributor,Involuntary
+EMP1350,04/22/2022,,Operations,Individual Contributor,
+EMP1351,10/14/2020,,Operations,Individual Contributor,
+EMP1352,04/11/2021,11/14/2021,Finance,Individual Contributor,Voluntary
+EMP1353,03/03/2023,04/07/2023,Marketing,Senior,Voluntary
+EMP1354,10/08/2021,,Marketing,Individual Contributor,
+EMP1355,03/18/2020,01/25/2021,Customer Support,Director,Voluntary
+EMP1356,08/21/2025,,Sales,Individual Contributor,
+EMP1357,04/11/2022,11/14/2022,HR,Senior,Layoff
+EMP1358,01/12/2022,,HR,Senior,
+EMP1359,11/16/2022,,Operations,Individual Contributor,
+EMP1360,12/20/2021,07/24/2022,Product Development,Individual Contributor,Voluntary
+EMP1361,02/05/2021,09/28/2021,Sales,Individual Contributor,Voluntary
+EMP1362,01/10/2024,,Engineering,Director,
+EMP1363,12/10/2023,04/11/2024,Marketing,Lead,Involuntary
+EMP1364,09/16/2020,08/01/2022,Finance,Individual Contributor,Involuntary
+EMP1365,05/16/2023,12/21/2024,Operations,Director,Voluntary
+EMP1366,07/13/2022,,Sales,Lead,
+EMP1367,11/08/2022,03/31/2023,Sales,Manager,Voluntary
+EMP1368,03/15/2022,05/13/2022,Customer Support,Individual Contributor,Involuntary
+EMP1369,09/22/2020,08/05/2023,Finance,Senior,Voluntary
+EMP1370,08/11/2021,12/21/2021,Marketing,Individual Contributor,Involuntary
+EMP1371,02/27/2021,,HR,Individual Contributor,
+EMP1372,07/15/2021,09/05/2023,Sales,Individual Contributor,Voluntary
+EMP1373,02/19/2022,04/09/2022,Operations,Director,Involuntary
+EMP1374,09/16/2022,,Engineering,Lead,
+EMP1375,01/25/2023,,Engineering,Senior,
+EMP1376,11/11/2022,01/01/2023,Customer Support,Lead,Voluntary
+EMP1377,10/27/2020,09/03/2023,Operations,Individual Contributor,Involuntary
+EMP1378,09/10/2021,04/20/2025,Engineering,Senior,Voluntary
+EMP1379,10/28/2022,06/20/2023,Product Development,Individual Contributor,Voluntary
+EMP1380,03/23/2021,05/01/2021,Operations,Senior,Involuntary
+EMP1381,10/13/2023,,Finance,Individual Contributor,
+EMP1382,01/17/2022,06/13/2024,Operations,Manager,Voluntary
+EMP1383,09/06/2024,01/28/2025,HR,Senior,Voluntary
+EMP1384,11/12/2024,03/26/2025,Operations,Individual Contributor,Involuntary
+EMP1385,10/17/2020,06/09/2021,Sales,Lead,Involuntary
+EMP1386,08/10/2020,10/04/2020,Operations,Manager,Voluntary
+EMP1387,06/26/2024,,HR,Individual Contributor,
+EMP1388,07/20/2024,,Customer Support,Senior,
+EMP1389,09/11/2023,,Customer Support,Senior,
+EMP1390,10/20/2020,12/16/2024,Marketing,Individual Contributor,Voluntary
+EMP1391,09/11/2024,,Customer Support,Senior,
+EMP1392,06/08/2024,01/10/2025,Operations,Senior,Voluntary
+EMP1393,01/02/2021,,Engineering,Director,
+EMP1394,02/07/2022,06/11/2022,Operations,Senior,Voluntary
+EMP1395,03/02/2022,,Marketing,Manager,
+EMP1396,02/02/2021,09/27/2021,Operations,Individual Contributor,Layoff
+EMP1397,02/07/2020,04/03/2020,HR,Senior,Layoff
+EMP1398,07/11/2021,,HR,Manager,
+EMP1399,08/13/2021,01/03/2022,Sales,Individual Contributor,Involuntary
+EMP1400,08/10/2023,12/31/2024,Engineering,Senior,Involuntary
+EMP1401,08/05/2024,,Marketing,Individual Contributor,
+EMP1402,03/24/2020,05/02/2020,Operations,Individual Contributor,
+EMP1403,01/01/2022,02/10/2022,Customer Support,Individual Contributor,Voluntary
+EMP1404,10/16/2023,02/27/2024,Marketing,Director,Voluntary
+EMP1405,01/27/2021,12/09/2023,Operations,Senior,Voluntary
+EMP1406,09/25/2022,11/09/2022,Marketing,Director,Voluntary
+EMP1407,11/18/2024,,HR,Lead,
+EMP1408,08/11/2023,06/30/2024,Engineering,Lead,Involuntary
+EMP1409,05/11/2022,,Marketing,Senior,
+EMP1410,04/07/2024,,Finance,Individual Contributor,
+EMP1411,11/06/2023,,Operations,Director,
+EMP1412,03/19/2022,,Engineering,Individual Contributor,
+EMP1413,07/10/2023,11/15/2023,Operations,Individual Contributor,Involuntary
+EMP1414,03/18/2022,08/14/2023,Marketing,Individual Contributor,Voluntary
+EMP1415,06/21/2021,07/24/2021,Customer Support,Individual Contributor,
+EMP1416,03/20/2022,05/07/2022,Product Development,Individual Contributor,Voluntary
+EMP1417,08/22/2022,,Engineering,Individual Contributor,
+EMP1418,03/12/2021,,Marketing,Senior,
+EMP1419,02/14/2021,12/18/2021,HR,Lead,Voluntary
+EMP1420,05/07/2022,,Customer Support,Individual Contributor,
+EMP1421,06/03/2022,,HR,Senior,
+EMP1422,03/08/2022,04/17/2024,Marketing,Individual Contributor,Voluntary
+EMP1423,01/10/2020,05/31/2020,Product Development,Individual Contributor,
+EMP1424,07/12/2022,09/07/2024,Customer Support,Senior,Involuntary
+EMP1425,03/08/2022,10/21/2024,Sales,Senior,Voluntary
+EMP1426,07/09/2023,,Sales,Senior,
+EMP1427,09/16/2024,,Finance,Senior,
+EMP1428,02/03/2021,12/09/2022,Operations,Individual Contributor,Involuntary
+EMP1429,06/22/2021,11/13/2021,Operations,Individual Contributor,Voluntary
+EMP1430,03/12/2023,,Engineering,Individual Contributor,
+EMP1431,07/23/2021,,Finance,Senior,
+EMP1432,01/12/2020,08/25/2020,Product Development,Individual Contributor,Voluntary
+EMP1433,12/26/2024,02/05/2025,HR,Senior,Voluntary
+EMP1434,05/24/2022,01/15/2025,Finance,Individual Contributor,Involuntary
+EMP1435,11/25/2022,04/07/2023,Product Development,Individual Contributor,Voluntary
+EMP1436,01/20/2022,,Operations,Senior,
+EMP1437,08/02/2024,,Sales,Manager,
+EMP1438,11/16/2024,01/12/2025,Operations,Individual Contributor,Voluntary
+EMP1439,07/23/2023,,Customer Support,Senior,
+EMP1440,10/14/2021,09/07/2023,Product Development,Senior,Voluntary
+EMP1441,08/28/2021,,HR,Senior,
+EMP1442,06/26/2025,,HR,Lead,
+EMP1443,10/05/2022,02/15/2024,Operations,Senior,Layoff
+EMP1444,07/05/2022,08/07/2023,Customer Support,Manager,Involuntary
+EMP1445,07/19/2020,02/28/2021,Product Development,Individual Contributor,Voluntary
+EMP1446,01/21/2021,02/24/2024,Finance,Lead,Voluntary
+EMP1447,02/18/2023,,Engineering,Individual Contributor,
+EMP1448,07/10/2022,,Finance,Senior,
+EMP1449,06/18/2022,10/27/2022,HR,Manager,Voluntary
+EMP1450,02/14/2022,03/15/2022,Product Development,Manager,Voluntary
+EMP1451,04/07/2023,,Operations,Manager,
+EMP1452,05/23/2022,,HR,Manager,
+EMP1453,06/03/2021,01/28/2025,Customer Support,Senior,Voluntary
+EMP1454,06/04/2021,10/04/2022,Finance,Individual Contributor,Voluntary
+EMP1455,10/26/2023,,Sales,Lead,
+EMP1456,02/07/2022,10/02/2023,Customer Support,Individual Contributor,Voluntary
+EMP1457,07/20/2023,02/25/2024,Operations,Lead,Voluntary
+EMP1458,12/28/2020,10/31/2023,Product Development,Lead,Involuntary
+EMP1459,09/08/2022,11/06/2022,Customer Support,Individual Contributor,Involuntary
+EMP1460,09/03/2023,,Sales,Individual Contributor,
+EMP1461,05/26/2022,,Marketing,Senior,
+EMP1462,09/15/2021,,Finance,Senior,
+EMP1463,03/17/2023,,Marketing,Individual Contributor,
+EMP1464,05/16/2024,07/07/2024,Sales,Lead,Involuntary
+EMP1465,01/02/2024,08/12/2024,HR,Senior,Voluntary
+EMP1466,08/15/2024,,Operations,Individual Contributor,
+EMP1467,01/18/2022,09/15/2023,Finance,Individual Contributor,Voluntary
+EMP1468,12/06/2025,,HR,Lead,
+EMP1469,03/09/2022,04/11/2022,Finance,Lead,Involuntary
+EMP1470,11/11/2023,,HR,Manager,
+EMP1471,02/02/2022,,Operations,Individual Contributor,
+EMP1472,11/06/2022,,Marketing,Individual Contributor,
+EMP1473,02/08/2022,,Customer Support,Lead,
+EMP1474,02/18/2025,,Engineering,Senior,
+EMP1475,08/21/2022,04/12/2023,Product Development,Individual Contributor,Voluntary
+EMP1476,04/04/2022,08/12/2022,Product Development,Director,Voluntary
+EMP1477,01/15/2021,02/21/2021,Marketing,Senior,
+EMP1478,02/25/2022,07/12/2022,Marketing,Lead,Voluntary
+EMP1479,06/27/2023,07/31/2023,HR,Individual Contributor,Voluntary
+EMP1480,04/11/2022,,Finance,Individual Contributor,
+EMP1481,06/11/2021,08/06/2023,Product Development,Individual Contributor,Layoff
+EMP1482,11/21/2023,,Sales,Senior,
+EMP1483,07/24/2020,03/17/2023,Customer Support,Individual Contributor,Involuntary
+EMP1484,08/20/2023,,Marketing,Individual Contributor,
+EMP1485,08/16/2024,,Finance,Senior,
+EMP1486,08/09/2022,09/10/2022,HR,Senior,Voluntary
+EMP1487,08/18/2020,,Marketing,Senior,
+EMP1488,09/05/2024,10/12/2024,Sales,Individual Contributor,Voluntary
+EMP1489,01/19/2022,12/12/2023,Operations,Individual Contributor,Layoff
+EMP1490,06/07/2022,,Finance,Individual Contributor,
+EMP1491,03/09/2023,08/01/2024,Finance,Individual Contributor,Voluntary
+EMP1492,01/17/2024,03/13/2024,Finance,Lead,Involuntary
+EMP1493,09/05/2023,,Sales,Manager,
+EMP1494,01/22/2021,,Sales,Senior,
+EMP1495,09/13/2022,11/03/2022,Marketing,Individual Contributor,Voluntary
+EMP1496,08/11/2022,09/13/2022,Finance,Senior,Involuntary
+EMP1497,09/25/2022,01/30/2024,HR,Lead,Voluntary
+EMP1498,10/21/2023,,Operations,Director,
+EMP1499,08/03/2020,06/24/2022,Product Development,Individual Contributor,Voluntary
+EMP1500,07/11/2020,,Engineering,Individual Contributor,
+EMP1501,08/22/2022,12/24/2022,Sales,Senior,Voluntary
+EMP1502,12/20/2023,05/16/2024,Engineering,Manager,Voluntary
+EMP1503,12/22/2020,04/26/2021,Finance,Individual Contributor,Voluntary
+EMP1504,01/17/2024,06/04/2024,Sales,Senior,Voluntary
+EMP1505,10/13/2021,11/14/2021,Product Development,Manager,Involuntary
+EMP1506,05/11/2021,,Sales,Individual Contributor,
+EMP1507,09/17/2022,,Marketing,Lead,
+EMP1508,03/27/2025,,Marketing,Lead,
+EMP1509,01/06/2024,,Customer Support,Individual Contributor,
+EMP1510,08/05/2020,03/29/2024,Operations,Senior,Voluntary
+EMP1511,07/13/2023,05/28/2025,Sales,Individual Contributor,Voluntary
+EMP1512,04/28/2022,03/19/2023,Marketing,Individual Contributor,Voluntary
+EMP1513,10/02/2020,,Engineering,Individual Contributor,
+EMP1514,06/15/2022,08/08/2022,Finance,Senior,Involuntary
+EMP1515,09/25/2021,07/30/2024,Operations,Individual Contributor,Voluntary
+EMP1516,06/28/2022,,Sales,Manager,
+EMP1517,07/27/2022,,Finance,Senior,
+EMP1518,02/10/2021,,Marketing,Individual Contributor,
+EMP1519,05/08/2025,,Sales,Lead,
+EMP1520,06/27/2023,05/18/2025,Sales,Senior,Voluntary
+EMP1521,06/12/2023,,HR,Senior,
+EMP1522,05/08/2022,07/03/2022,Customer Support,Individual Contributor,Involuntary
+EMP1523,01/01/2020,08/28/2024,Finance,Senior,Voluntary
+EMP1524,08/11/2023,12/31/2023,HR,Lead,Voluntary
+EMP1525,08/28/2023,10/02/2023,HR,Director,Voluntary
+EMP1526,07/12/2023,09/09/2023,HR,Lead,Voluntary
+EMP1527,02/14/2020,04/05/2021,Customer Support,Senior,Involuntary
+EMP1528,03/21/2023,08/12/2023,Product Development,Individual Contributor,Involuntary
+EMP1529,01/25/2020,03/09/2024,Marketing,Lead,Voluntary
+EMP1530,06/07/2021,07/19/2023,Sales,Individual Contributor,Layoff
+EMP1531,07/11/2022,,Customer Support,Senior,
+EMP1532,02/19/2023,07/17/2023,Customer Support,Individual Contributor,Voluntary
+EMP1533,11/19/2023,,HR,Senior,
+EMP1534,09/26/2021,08/05/2022,Customer Support,Individual Contributor,Involuntary
+EMP1535,10/19/2020,09/06/2021,HR,Senior,
+EMP1536,11/08/2021,09/24/2022,Operations,Individual Contributor,Voluntary
+EMP1537,06/07/2021,,Operations,Individual Contributor,
+EMP1538,01/01/2023,08/09/2023,Operations,Lead,Voluntary
+EMP1539,07/13/2024,,Finance,Individual Contributor,
+EMP1540,01/17/2023,,Customer Support,Individual Contributor,
+EMP1541,01/27/2021,09/03/2023,Product Development,Manager,Involuntary
+EMP1542,06/10/2025,,Marketing,Individual Contributor,
+EMP1543,03/10/2022,04/21/2023,Finance,Senior,Involuntary
+EMP1544,05/04/2024,10/01/2024,Sales,Individual Contributor,Involuntary
+EMP1545,05/19/2021,12/28/2024,Customer Support,Lead,Voluntary
+EMP1546,04/17/2021,,Operations,Individual Contributor,
+EMP1547,07/11/2022,08/29/2022,Operations,Individual Contributor,Voluntary
+EMP1548,06/13/2023,10/28/2023,Product Development,Individual Contributor,Voluntary
+EMP1549,09/18/2020,,Finance,Individual Contributor,
+EMP1550,09/04/2022,,Operations,Senior,
+EMP1551,08/14/2020,06/26/2022,HR,Individual Contributor,Involuntary
+EMP1552,09/19/2024,10/20/2024,Marketing,Senior,Voluntary
+EMP1553,11/28/2022,,Engineering,Individual Contributor,
+EMP1554,04/15/2023,03/06/2025,Finance,Individual Contributor,Layoff
+EMP1555,01/23/2023,09/19/2024,Marketing,Individual Contributor,Voluntary
+EMP1556,08/13/2023,12/17/2024,Engineering,Lead,Voluntary
+EMP1557,09/05/2024,,Engineering,Lead,
+EMP1558,10/10/2020,11/14/2022,Product Development,Individual Contributor,Voluntary
+EMP1559,05/18/2021,12/21/2022,HR,Senior,Voluntary
+EMP1560,11/16/2023,,Finance,Manager,
+EMP1561,12/20/2023,,Operations,Individual Contributor,
+EMP1562,03/18/2023,07/18/2023,Customer Support,Individual Contributor,Voluntary
+EMP1563,01/15/2020,08/18/2020,Operations,Individual Contributor,
+EMP1564,02/07/2022,,Finance,Individual Contributor,
+EMP1565,09/23/2024,02/08/2025,Engineering,Individual Contributor,Voluntary
+EMP1566,03/08/2021,07/23/2021,HR,Manager,
+EMP1567,04/11/2022,,Finance,Lead,
+EMP1568,01/18/2021,,Sales,Senior,
+EMP1569,02/01/2022,03/13/2025,Engineering,Individual Contributor,Voluntary
+EMP1570,03/08/2021,07/26/2021,Sales,Manager,
+EMP1571,08/07/2023,,Engineering,Individual Contributor,
+EMP1572,07/08/2022,,Marketing,Senior,
+EMP1573,09/21/2022,02/12/2023,HR,Lead,Involuntary
+EMP1574,05/15/2025,,Operations,Lead,
+EMP1575,03/27/2022,11/24/2023,Product Development,Lead,Voluntary
+EMP1576,02/12/2022,,Marketing,Director,
+EMP1577,10/12/2025,,Finance,Director,
+EMP1578,09/07/2022,11/03/2022,Product Development,Lead,Voluntary
+EMP1579,03/01/2024,07/20/2024,Customer Support,Director,Voluntary
+EMP1580,11/20/2020,,HR,Individual Contributor,
+EMP1581,11/22/2023,,Finance,Senior,
+EMP1582,04/01/2022,11/14/2024,Finance,Director,Involuntary
+EMP1583,01/06/2022,08/07/2023,Customer Support,Individual Contributor,Voluntary
+EMP1584,03/08/2020,10/15/2022,Operations,Director,Voluntary
+EMP1585,07/27/2021,03/02/2022,Customer Support,Individual Contributor,Voluntary
+EMP1586,10/14/2023,09/05/2024,Customer Support,Lead,Voluntary
+EMP1587,04/01/2021,05/12/2021,Finance,Lead,
+EMP1588,02/17/2021,04/08/2023,Operations,Senior,Involuntary
+EMP1589,05/21/2024,,Sales,Lead,
+EMP1590,07/14/2023,,Sales,Senior,
+EMP1591,10/27/2021,09/06/2022,Operations,Individual Contributor,Voluntary
+EMP1592,03/05/2022,,Marketing,Senior,
+EMP1593,03/25/2020,08/19/2020,Finance,Manager,Voluntary
+EMP1594,03/14/2021,04/23/2023,Finance,Senior,Voluntary
+EMP1595,10/19/2025,,Customer Support,Lead,
+EMP1596,08/07/2021,12/10/2023,Customer Support,Individual Contributor,Voluntary
+EMP1597,03/27/2020,,Marketing,Senior,
+EMP1598,04/01/2021,08/22/2023,HR,Individual Contributor,Layoff
+EMP1599,01/15/2022,02/17/2025,Operations,Lead,Voluntary
+EMP1600,11/08/2021,03/18/2022,Product Development,Individual Contributor,Involuntary
+EMP1601,10/26/2022,03/04/2023,Finance,Manager,Involuntary
+EMP1602,09/22/2020,,Engineering,Individual Contributor,
+EMP1603,06/06/2023,,Engineering,Individual Contributor,
+EMP1604,01/09/2021,12/07/2024,Operations,Individual Contributor,Involuntary
+EMP1605,07/12/2021,,HR,Senior,
+EMP1606,02/01/2021,,Marketing,Manager,
+EMP1607,12/23/2022,07/24/2024,Marketing,Senior,Voluntary
+EMP1608,04/21/2021,11/21/2021,Operations,Lead,
+EMP1609,11/16/2022,04/12/2023,Marketing,Lead,Involuntary
+EMP1610,11/17/2025,,Operations,Director,
+EMP1611,04/25/2024,,Marketing,Individual Contributor,
+EMP1612,07/04/2023,05/08/2024,Operations,Senior,Voluntary
+EMP1613,12/28/2022,02/19/2023,Finance,Lead,Involuntary
+EMP1614,07/21/2021,,Sales,Individual Contributor,
+EMP1615,04/28/2022,09/01/2024,Sales,Individual Contributor,Voluntary
+EMP1616,03/26/2022,08/17/2023,Product Development,Individual Contributor,Involuntary
+EMP1617,01/25/2024,,Sales,Senior,
+EMP1618,02/19/2022,01/14/2023,Customer Support,Lead,Voluntary
+EMP1619,07/18/2021,12/12/2024,Finance,Individual Contributor,Layoff
+EMP1620,03/26/2024,08/16/2024,Engineering,Individual Contributor,Involuntary
+EMP1621,05/28/2022,,HR,Individual Contributor,
+EMP1622,08/23/2021,01/09/2023,Sales,Individual Contributor,Voluntary
+EMP1623,05/15/2021,07/11/2021,Customer Support,Individual Contributor,
+EMP1624,07/15/2021,,Sales,Individual Contributor,
+EMP1625,06/21/2023,07/29/2023,Customer Support,Lead,Involuntary
+EMP1626,07/15/2021,08/28/2022,Marketing,Senior,Voluntary
+EMP1627,09/12/2020,11/10/2020,Finance,Individual Contributor,Voluntary
+EMP1628,09/04/2020,10/13/2020,Product Development,Individual Contributor,Involuntary
+EMP1629,07/27/2023,09/04/2023,Marketing,Individual Contributor,Voluntary
+EMP1630,03/02/2020,,Engineering,Director,
+EMP1631,03/16/2021,07/16/2023,Sales,Manager,Voluntary
+EMP1632,07/26/2022,09/16/2022,Operations,Individual Contributor,Involuntary
+EMP1633,03/08/2022,04/20/2024,Operations,Individual Contributor,Involuntary
+EMP1634,10/20/2022,06/05/2025,HR,Individual Contributor,Voluntary
+EMP1635,08/04/2021,07/02/2024,Customer Support,Lead,Layoff
+EMP1636,03/23/2022,08/01/2023,Sales,Senior,Voluntary
+EMP1637,07/09/2021,08/10/2021,HR,Senior,
+EMP1638,01/24/2024,,Customer Support,Manager,
+EMP1639,08/07/2021,,Finance,Senior,
+EMP1640,02/22/2022,,HR,Senior,
+EMP1641,08/10/2022,01/06/2023,Operations,Individual Contributor,Involuntary
+EMP1642,11/01/2020,06/18/2021,HR,Individual Contributor,Voluntary
+EMP1643,09/25/2024,,Marketing,Lead,
+EMP1644,02/20/2025,,Marketing,Lead,
+EMP1645,06/09/2024,,Finance,Senior,
+EMP1646,07/08/2022,02/17/2023,Finance,Individual Contributor,Voluntary
+EMP1647,03/21/2020,08/17/2024,Marketing,Senior,Involuntary
+EMP1648,10/19/2024,,Marketing,Senior,
+EMP1649,06/10/2023,10/10/2023,Customer Support,Individual Contributor,Voluntary
+EMP1650,10/22/2020,06/05/2024,Operations,Individual Contributor,Involuntary
+EMP1651,03/27/2023,08/11/2023,Marketing,Individual Contributor,Involuntary
+EMP1652,09/19/2021,01/21/2025,Engineering,Senior,Voluntary
+EMP1653,01/19/2021,,Finance,Lead,
+EMP1654,10/28/2021,,Operations,Senior,
+EMP1655,05/24/2021,04/06/2023,Finance,Manager,Voluntary
+EMP1656,03/28/2021,,HR,Lead,
+EMP1657,03/07/2021,,Sales,Individual Contributor,
+EMP1658,05/27/2021,01/02/2023,Sales,Director,Layoff
+EMP1659,05/23/2021,10/10/2021,Sales,Individual Contributor,
+EMP1660,11/20/2020,01/05/2021,Operations,Individual Contributor,
+EMP1661,02/04/2024,,HR,Lead,
+EMP1662,03/04/2024,04/26/2024,Operations,Senior,Voluntary
+EMP1663,08/23/2020,01/09/2021,Customer Support,Individual Contributor,Voluntary
+EMP1664,01/10/2020,,Sales,Individual Contributor,
+EMP1665,08/13/2021,,Engineering,Individual Contributor,
+EMP1666,04/03/2023,,Marketing,Lead,
+EMP1667,03/14/2021,10/15/2021,HR,Individual Contributor,
+EMP1668,10/21/2024,12/18/2024,Finance,Individual Contributor,Voluntary
+EMP1669,02/21/2022,04/09/2022,Marketing,Individual Contributor,Involuntary
+EMP1670,02/01/2022,,Operations,Individual Contributor,
+EMP1671,09/21/2023,08/03/2024,Marketing,Lead,Voluntary
+EMP1672,06/06/2023,04/24/2024,Sales,Individual Contributor,Involuntary
+EMP1673,02/22/2022,06/30/2022,Operations,Senior,Voluntary
+EMP1674,09/25/2024,,Marketing,Senior,
+EMP1675,12/25/2021,05/06/2025,Engineering,Manager,Voluntary
+EMP1676,04/08/2022,02/18/2023,Customer Support,Manager,Voluntary
+EMP1677,01/02/2022,,Finance,Individual Contributor,
+EMP1678,02/03/2023,,Customer Support,Lead,
+EMP1679,09/13/2021,,Sales,Individual Contributor,
+EMP1680,03/22/2021,,Operations,Individual Contributor,
+EMP1681,04/15/2024,,Sales,Individual Contributor,
+EMP1682,07/20/2021,09/15/2021,Product Development,Individual Contributor,
+EMP1683,02/06/2020,03/12/2020,Customer Support,Individual Contributor,Voluntary
+EMP1684,09/25/2022,08/08/2023,Product Development,Individual Contributor,Involuntary
+EMP1685,03/08/2022,10/23/2023,Marketing,Individual Contributor,Voluntary
+EMP1686,01/01/2022,02/10/2022,Finance,Individual Contributor,Voluntary
+EMP1687,06/26/2022,,Operations,Senior,
+EMP1688,08/07/2025,,Sales,Lead,
+EMP1689,07/14/2020,06/10/2025,Operations,Individual Contributor,Layoff
+EMP1690,12/10/2022,07/25/2023,HR,Senior,Voluntary
+EMP1691,01/05/2021,,Sales,Manager,
+EMP1692,05/15/2021,09/30/2023,Finance,Individual Contributor,Voluntary
+EMP1693,11/08/2023,03/18/2025,HR,Lead,Voluntary
+EMP1694,03/05/2024,,Sales,Manager,
+EMP1695,07/23/2023,12/10/2023,Operations,Senior,Voluntary
+EMP1696,08/16/2024,01/01/2025,HR,Individual Contributor,Voluntary
+EMP1697,10/04/2021,,Marketing,Individual Contributor,
+EMP1698,08/10/2021,09/24/2022,Finance,Individual Contributor,Layoff
+EMP1699,11/12/2025,,Sales,Individual Contributor,
+EMP1700,03/15/2022,,Engineering,Senior,
+EMP1701,03/09/2024,01/29/2025,Engineering,Manager,Involuntary
+EMP1702,03/13/2021,11/02/2022,HR,Individual Contributor,Involuntary
+EMP1703,10/28/2022,,Sales,Lead,
+EMP1704,05/03/2023,06/19/2024,Sales,Lead,Voluntary
+EMP1705,11/14/2021,04/04/2023,Finance,Manager,Voluntary
+EMP1706,09/16/2022,10/26/2022,HR,Individual Contributor,Voluntary
+EMP1707,09/15/2022,05/10/2025,Sales,Individual Contributor,Voluntary
+EMP1708,09/12/2020,01/15/2021,Product Development,Individual Contributor,Involuntary
+EMP1709,06/24/2024,,HR,Director,
+EMP1710,05/28/2023,04/10/2025,Operations,Individual Contributor,Involuntary
+EMP1711,03/10/2022,07/11/2022,HR,Individual Contributor,Voluntary
+EMP1712,09/11/2021,07/29/2023,Operations,Individual Contributor,Voluntary
+EMP1713,03/09/2024,07/25/2024,HR,Individual Contributor,Involuntary
+EMP1714,02/25/2023,10/15/2023,Marketing,Manager,Voluntary
+EMP1715,10/09/2021,12/03/2022,Customer Support,Individual Contributor,Voluntary
+EMP1716,09/08/2021,01/22/2022,Marketing,Manager,Involuntary
+EMP1717,09/23/2021,11/13/2021,Marketing,Manager,
+EMP1718,07/28/2022,12/26/2023,Finance,Individual Contributor,Involuntary
+EMP1719,12/17/2022,08/01/2023,Operations,Individual Contributor,Voluntary
+EMP1720,08/09/2021,09/20/2023,Customer Support,Senior,Voluntary
+EMP1721,06/03/2021,,Finance,Individual Contributor,
+EMP1722,07/21/2025,,HR,Individual Contributor,
+EMP1723,02/07/2022,12/07/2024,Marketing,Lead,Voluntary
+EMP1724,07/24/2025,,Marketing,Individual Contributor,
+EMP1725,01/15/2023,06/03/2025,Finance,Lead,Voluntary
+EMP1726,02/09/2020,03/18/2020,HR,Individual Contributor,Voluntary
+EMP1727,04/14/2022,,Operations,Lead,
+EMP1728,03/02/2020,10/28/2023,Product Development,Individual Contributor,Voluntary
+EMP1729,02/19/2022,01/10/2023,Product Development,Senior,Involuntary
+EMP1730,07/27/2023,,Sales,Senior,
+EMP1731,02/14/2022,04/07/2022,Product Development,Individual Contributor,Voluntary
+EMP1732,09/26/2023,,Sales,Individual Contributor,
+EMP1733,06/23/2021,,Marketing,Manager,
+EMP1734,08/12/2021,10/10/2023,Finance,Individual Contributor,Voluntary
+EMP1735,01/26/2023,,Marketing,Senior,
+EMP1736,03/19/2022,,Operations,Director,
+EMP1737,07/08/2022,,Sales,Director,
+EMP1738,02/26/2022,03/31/2023,Customer Support,Senior,Voluntary
+EMP1739,07/28/2022,,Finance,Individual Contributor,
+EMP1740,07/21/2024,,Engineering,Senior,
+EMP1741,08/28/2023,10/06/2023,Marketing,Individual Contributor,Involuntary
+EMP1742,11/22/2021,10/04/2024,Sales,Lead,Voluntary
+EMP1743,10/09/2023,03/05/2024,Finance,Individual Contributor,Voluntary
+EMP1744,12/10/2024,01/29/2025,Finance,Individual Contributor,Involuntary
+EMP1745,09/13/2024,,Sales,Lead,
+EMP1746,08/09/2023,09/17/2023,Sales,Lead,Voluntary
+EMP1747,05/21/2021,,HR,Individual Contributor,
+EMP1748,10/01/2022,08/15/2023,Operations,Manager,Involuntary
+EMP1749,10/20/2020,12/16/2020,Marketing,Senior,Involuntary
+EMP1750,08/02/2023,,HR,Individual Contributor,
+EMP1751,12/02/2022,10/25/2023,Marketing,Individual Contributor,Voluntary
+EMP1752,10/05/2023,,Engineering,Director,
+EMP1753,08/19/2023,12/23/2023,Marketing,Individual Contributor,Voluntary
+EMP1754,08/02/2023,,Customer Support,Individual Contributor,
+EMP1755,10/23/2020,03/06/2021,Finance,Individual Contributor,Voluntary
+EMP1756,01/22/2023,03/03/2023,Product Development,Manager,Voluntary
+EMP1757,05/16/2023,,Engineering,Senior,
+EMP1758,02/04/2024,,Sales,Individual Contributor,
+EMP1759,03/15/2022,,Sales,Manager,
+EMP1760,01/14/2021,03/15/2023,Sales,Director,Involuntary
+EMP1761,10/18/2022,11/27/2023,Operations,Senior,Involuntary
+EMP1762,12/09/2024,,Customer Support,Manager,
+EMP1763,01/26/2023,11/30/2024,Sales,Individual Contributor,Voluntary
+EMP1764,11/03/2024,,Sales,Senior,
+EMP1765,02/25/2022,07/04/2022,Product Development,Lead,Voluntary
+EMP1766,07/19/2022,12/14/2022,Sales,Individual Contributor,Involuntary
+EMP1767,12/26/2021,,Operations,Individual Contributor,
+EMP1768,09/04/2025,,Marketing,Individual Contributor,
+EMP1769,09/10/2021,,Finance,Lead,
+EMP1770,01/09/2023,12/07/2023,Marketing,Lead,Voluntary
+EMP1771,02/10/2021,12/31/2021,Product Development,Individual Contributor,
+EMP1772,01/04/2022,03/04/2024,Finance,Individual Contributor,Voluntary
+EMP1773,07/03/2022,,Sales,Senior,
+EMP1774,04/12/2022,03/04/2023,Operations,Manager,Involuntary
+EMP1775,01/02/2022,05/21/2022,Sales,Individual Contributor,Voluntary
+EMP1776,02/18/2023,04/02/2025,Customer Support,Senior,Voluntary
+EMP1777,12/12/2021,02/09/2023,Finance,Director,Voluntary
+EMP1778,01/23/2021,08/26/2023,Marketing,Senior,Voluntary
+EMP1779,08/06/2020,09/09/2022,Marketing,Individual Contributor,Voluntary
+EMP1780,03/27/2020,10/28/2021,Sales,Senior,Involuntary
+EMP1781,06/19/2021,,HR,Lead,
+EMP1782,01/20/2023,05/23/2023,Operations,Individual Contributor,Voluntary
+EMP1783,10/14/2024,,Operations,Individual Contributor,
+EMP1784,07/09/2023,,Finance,Lead,
+EMP1785,04/27/2023,05/30/2023,Sales,Lead,Involuntary
+EMP1786,07/12/2020,09/07/2020,HR,Senior,
+EMP1787,12/03/2021,10/25/2022,Customer Support,Manager,Voluntary
+EMP1788,01/18/2023,06/15/2023,Sales,Senior,Voluntary
+EMP1789,05/11/2021,06/27/2023,Marketing,Senior,Voluntary
+EMP1790,07/16/2023,,Customer Support,Individual Contributor,
+EMP1791,10/19/2023,,Finance,Individual Contributor,
+EMP1792,09/15/2023,04/28/2024,Engineering,Individual Contributor,Layoff
+EMP1793,01/03/2021,02/06/2023,HR,Individual Contributor,Voluntary
+EMP1794,12/28/2023,11/23/2024,Customer Support,Individual Contributor,Voluntary
+EMP1795,01/14/2021,,Finance,Lead,
+EMP1796,04/26/2023,,Sales,Individual Contributor,
+EMP1797,08/21/2022,,Sales,Individual Contributor,
+EMP1798,10/04/2021,,Operations,Manager,
+EMP1799,09/09/2020,07/29/2023,Product Development,Senior,Involuntary
+EMP1800,08/19/2020,07/06/2021,Finance,Individual Contributor,Voluntary
+EMP1801,04/20/2023,06/07/2023,Product Development,Individual Contributor,Voluntary
+EMP1802,04/13/2021,09/10/2024,Marketing,Individual Contributor,Voluntary
+EMP1803,10/24/2024,,HR,Director,
+EMP1804,05/03/2021,12/11/2022,Sales,Lead,Involuntary
+EMP1805,03/20/2020,02/03/2023,Marketing,Lead,Voluntary
+EMP1806,01/07/2020,05/11/2020,Operations,Individual Contributor,Layoff
+EMP1807,05/20/2024,,Customer Support,Individual Contributor,
+EMP1808,08/09/2025,,HR,Individual Contributor,
+EMP1809,03/19/2021,01/19/2024,Marketing,Manager,Voluntary
+EMP1810,08/09/2023,,Customer Support,Individual Contributor,
+EMP1811,03/23/2021,01/27/2022,HR,Individual Contributor,Involuntary
+EMP1812,01/19/2023,,Sales,Lead,
+EMP1813,03/17/2024,04/28/2025,Operations,Individual Contributor,Voluntary
+EMP1814,08/23/2022,,Operations,Manager,
+EMP1815,06/14/2023,10/16/2023,Finance,Individual Contributor,Involuntary
+EMP1816,01/05/2023,05/27/2023,Sales,Lead,Involuntary
+EMP1817,02/11/2022,,HR,Individual Contributor,
+EMP1818,05/03/2022,06/21/2024,Operations,Senior,Involuntary
+EMP1819,08/24/2021,01/08/2024,Sales,Lead,Voluntary
+EMP1820,08/11/2025,,Customer Support,Individual Contributor,
+EMP1821,09/07/2022,02/02/2025,Operations,Individual Contributor,Voluntary
+EMP1822,12/26/2023,11/02/2024,Finance,Individual Contributor,Voluntary
+EMP1823,03/22/2023,05/02/2023,Product Development,Individual Contributor,Voluntary
+EMP1824,10/10/2023,,Operations,Senior,
+EMP1825,12/17/2022,11/01/2024,Finance,Manager,Involuntary
+EMP1826,01/19/2023,,Marketing,Individual Contributor,
+EMP1827,02/16/2023,03/18/2024,Finance,Individual Contributor,Voluntary
+EMP1828,03/21/2022,04/25/2022,Marketing,Lead,Involuntary
+EMP1829,01/01/2025,02/10/2025,Operations,Senior,Involuntary
+EMP1830,12/25/2020,05/21/2021,Marketing,Manager,Voluntary
+EMP1831,01/18/2020,,Engineering,Individual Contributor,
+EMP1832,04/03/2022,11/07/2024,Engineering,Director,Voluntary
+EMP1833,07/20/2022,09/02/2024,Marketing,Individual Contributor,Voluntary
+EMP1834,11/28/2022,,Marketing,Individual Contributor,
+EMP1835,01/27/2022,,Engineering,Individual Contributor,
+EMP1836,06/09/2023,01/21/2024,Operations,Individual Contributor,Voluntary
+EMP1837,07/14/2020,,Customer Support,Lead,
+EMP1838,09/26/2022,08/11/2024,Finance,Lead,Voluntary
+EMP1839,03/13/2022,,Finance,Individual Contributor,
+EMP1840,08/11/2022,06/20/2024,Marketing,Individual Contributor,Voluntary
+EMP1841,04/28/2022,11/28/2024,HR,Manager,Voluntary
+EMP1842,03/19/2023,07/24/2023,Finance,Senior,Voluntary
+EMP1843,01/11/2023,11/20/2024,Finance,Senior,Voluntary
+EMP1844,06/15/2022,08/13/2022,Customer Support,Senior,Involuntary
+EMP1845,12/18/2024,,Marketing,Individual Contributor,
+EMP1846,02/16/2025,04/05/2025,Finance,Individual Contributor,Involuntary
+EMP1847,07/22/2020,,Marketing,Senior,
+EMP1848,12/11/2022,01/19/2025,Marketing,Senior,Voluntary
+EMP1849,07/23/2022,,Customer Support,Director,
+EMP1850,03/14/2020,01/27/2021,Marketing,Senior,Involuntary
+EMP1851,07/26/2020,03/07/2021,Finance,Senior,
+EMP1852,07/23/2023,08/27/2023,Sales,Individual Contributor,Voluntary
+EMP1853,09/20/2021,05/12/2023,Marketing,Manager,Involuntary
+EMP1854,11/11/2023,06/16/2025,Engineering,Manager,Voluntary
+EMP1855,09/19/2022,,Engineering,Individual Contributor,
+EMP1856,10/08/2021,02/22/2025,Operations,Individual Contributor,Layoff
+EMP1857,10/08/2022,02/24/2023,Marketing,Manager,Voluntary
+EMP1858,07/25/2023,,Finance,Individual Contributor,
+EMP1859,01/09/2023,08/27/2023,Sales,Lead,Involuntary
+EMP1860,10/16/2021,11/30/2021,Operations,Individual Contributor,
+EMP1861,04/16/2021,11/19/2023,HR,Senior,Involuntary
+EMP1862,08/08/2020,06/25/2024,Engineering,Lead,Voluntary
+EMP1863,03/26/2023,11/09/2023,Operations,Director,Layoff
+EMP1864,02/07/2022,,Finance,Lead,
+EMP1865,01/04/2024,02/18/2024,HR,Senior,Voluntary
+EMP1866,02/10/2023,06/30/2023,Finance,Manager,Involuntary
+EMP1867,02/15/2024,04/03/2024,Engineering,Individual Contributor,Voluntary
+EMP1868,08/16/2021,,Marketing,Senior,
+EMP1869,01/08/2023,,HR,Individual Contributor,
+EMP1870,09/04/2023,,Engineering,Individual Contributor,
+EMP1871,02/13/2023,03/28/2023,Product Development,Lead,Voluntary
+EMP1872,11/26/2021,,Sales,Senior,
+EMP1873,10/25/2025,,Customer Support,Lead,
+EMP1874,02/27/2020,03/31/2020,Customer Support,Individual Contributor,Involuntary
+EMP1875,08/09/2023,,HR,Senior,
+EMP1876,10/27/2020,11/27/2020,Marketing,Senior,
+EMP1877,09/05/2020,10/24/2023,Marketing,Individual Contributor,Voluntary
+EMP1878,02/13/2020,03/20/2020,Marketing,Individual Contributor,Voluntary
+EMP1879,09/07/2021,10/11/2022,Finance,Lead,Layoff
+EMP1880,07/09/2021,05/10/2022,Sales,Senior,Voluntary
+EMP1881,03/04/2023,04/24/2023,Product Development,Senior,Voluntary
+EMP1882,10/17/2021,12/15/2023,Operations,Manager,Layoff
+EMP1883,07/22/2020,11/23/2021,Customer Support,Senior,Voluntary
+EMP1884,03/23/2024,,Customer Support,Individual Contributor,
+EMP1885,08/11/2023,03/24/2024,HR,Individual Contributor,Voluntary
+EMP1886,01/24/2022,,Operations,Manager,
+EMP1887,07/13/2021,,Operations,Senior,
+EMP1888,08/03/2023,09/20/2023,Product Development,Lead,Voluntary
+EMP1889,03/01/2021,01/19/2023,Product Development,Individual Contributor,Voluntary
+EMP1890,07/24/2021,03/07/2024,Finance,Individual Contributor,Voluntary
+EMP1891,03/01/2021,04/15/2021,Product Development,Individual Contributor,
+EMP1892,02/01/2022,12/10/2023,Sales,Individual Contributor,Voluntary
+EMP1893,01/03/2024,,Customer Support,Individual Contributor,
+EMP1894,03/21/2024,05/10/2024,Engineering,Director,Voluntary
+EMP1895,02/11/2022,,Engineering,Individual Contributor,
+EMP1896,12/23/2021,05/11/2024,Engineering,Senior,Voluntary
+EMP1897,01/24/2021,03/06/2021,Product Development,Individual Contributor,Involuntary
+EMP1898,12/01/2022,,Operations,Individual Contributor,
+EMP1899,05/05/2022,,Marketing,Lead,
+EMP1900,06/27/2022,,Finance,Individual Contributor,
+EMP1901,01/04/2024,05/15/2024,Sales,Senior,Involuntary
+EMP1902,10/05/2021,05/15/2022,Product Development,Senior,Voluntary
+EMP1903,02/19/2025,,Sales,Manager,
+EMP1904,01/03/2025,02/22/2025,Customer Support,Senior,Involuntary
+EMP1905,02/12/2022,04/10/2022,Finance,Senior,Voluntary
+EMP1906,03/08/2023,,Sales,Lead,
+EMP1907,03/28/2022,11/14/2023,Marketing,Manager,Layoff
+EMP1908,07/10/2022,12/01/2022,Finance,Individual Contributor,Involuntary
+EMP1909,03/26/2023,05/08/2023,Operations,Manager,Voluntary
+EMP1910,01/23/2023,06/11/2024,Engineering,Individual Contributor,Voluntary
+EMP1911,09/23/2020,07/30/2021,Marketing,Individual Contributor,Involuntary
+EMP1912,08/08/2021,12/23/2022,Finance,Individual Contributor,Involuntary
+EMP1913,10/08/2021,,Customer Support,Individual Contributor,
+EMP1914,09/12/2021,04/28/2022,Marketing,Individual Contributor,Voluntary
+EMP1915,12/19/2021,08/17/2023,Operations,Senior,Voluntary
+EMP1916,01/25/2021,,Sales,Individual Contributor,
+EMP1917,01/28/2024,12/19/2024,Engineering,Manager,Voluntary
+EMP1918,12/03/2021,01/11/2024,Marketing,Individual Contributor,Voluntary
+EMP1919,03/10/2021,,Operations,Individual Contributor,
+EMP1920,10/13/2022,08/27/2023,Operations,Manager,Voluntary
+EMP1921,08/03/2022,09/16/2022,HR,Senior,Voluntary
+EMP1922,02/09/2020,07/01/2022,Marketing,Individual Contributor,Voluntary
+EMP1923,09/05/2022,,Engineering,Individual Contributor,
+EMP1924,08/01/2020,03/10/2021,Marketing,Lead,Layoff
+EMP1925,10/21/2022,11/28/2022,Customer Support,Director,Involuntary
+EMP1926,02/18/2023,01/11/2025,Finance,Senior,Voluntary
+EMP1927,05/25/2024,,Operations,Individual Contributor,
+EMP1928,06/26/2023,,Operations,Director,
+EMP1929,07/12/2025,,Engineering,Individual Contributor,
+EMP1930,01/28/2021,,Operations,Director,
+EMP1931,03/15/2020,08/03/2023,Finance,Individual Contributor,Voluntary
+EMP1932,10/24/2022,,Marketing,Individual Contributor,
+EMP1933,01/05/2021,08/10/2024,Finance,Senior,Involuntary
+EMP1934,10/19/2021,,Sales,Lead,
+EMP1935,09/21/2023,,Finance,Lead,
+EMP1936,12/08/2025,,Sales,Individual Contributor,
+EMP1937,07/16/2022,,Operations,Individual Contributor,
+EMP1938,04/08/2023,,Customer Support,Senior,
+EMP1939,03/23/2020,,Engineering,Individual Contributor,
+EMP1940,09/01/2023,,Marketing,Senior,
+EMP1941,01/21/2023,,Finance,Individual Contributor,
+EMP1942,03/28/2023,,Engineering,Manager,
+EMP1943,08/19/2023,10/09/2023,Customer Support,Individual Contributor,Involuntary
+EMP1944,08/17/2020,09/25/2023,Customer Support,Individual Contributor,Voluntary
+EMP1945,09/21/2023,01/27/2024,Finance,Individual Contributor,Involuntary
+EMP1946,03/08/2020,01/23/2021,Sales,Individual Contributor,Involuntary
+EMP1947,08/14/2022,,Sales,Individual Contributor,
+EMP1948,08/22/2025,,Operations,Individual Contributor,
+EMP1949,05/20/2023,,Operations,Individual Contributor,
+EMP1950,03/21/2021,05/01/2021,Sales,Individual Contributor,
+EMP1951,01/20/2022,,Engineering,Director,
+EMP1952,11/07/2022,09/17/2023,HR,Senior,Voluntary
+EMP1953,09/24/2021,,Operations,Individual Contributor,
+EMP1954,12/03/2021,,Finance,Individual Contributor,
+EMP1955,03/11/2021,04/18/2021,Customer Support,Individual Contributor,Involuntary
+EMP1956,09/11/2023,10/15/2024,Engineering,Lead,Voluntary
+EMP1957,08/03/2023,09/09/2023,Product Development,Individual Contributor,Involuntary
+EMP1958,10/11/2021,11/24/2023,HR,Individual Contributor,Voluntary
+EMP1959,07/12/2024,,Marketing,Individual Contributor,
+EMP1960,04/26/2023,12/01/2023,Operations,Lead,Voluntary
+EMP1961,12/22/2022,07/26/2024,Engineering,Senior,Voluntary
+EMP1962,09/05/2020,04/22/2025,Engineering,Manager,Voluntary
+EMP1963,03/01/2023,10/04/2023,Sales,Director,Layoff
+EMP1964,01/13/2023,03/08/2023,Marketing,Individual Contributor,Involuntary
+EMP1965,08/12/2021,06/15/2025,HR,Manager,Voluntary
+EMP1966,09/18/2021,05/03/2025,Marketing,Individual Contributor,Voluntary
+EMP1967,03/15/2020,08/01/2023,Customer Support,Individual Contributor,Voluntary
+EMP1968,09/22/2025,,Marketing,Director,
+EMP1969,06/14/2022,,Operations,Senior,
+EMP1970,10/27/2023,11/28/2023,Marketing,Individual Contributor,Voluntary
+EMP1971,11/13/2022,09/17/2024,Marketing,Senior,Involuntary
+EMP1972,10/25/2022,12/22/2022,HR,Individual Contributor,Voluntary
+EMP1973,04/01/2022,,Operations,Manager,
+EMP1974,07/27/2020,06/18/2025,Engineering,Individual Contributor,Voluntary
+EMP1975,07/04/2021,,Customer Support,Individual Contributor,
+EMP1976,03/10/2021,10/22/2023,Operations,Individual Contributor,Voluntary
+EMP1977,04/18/2023,,Marketing,Senior,
+EMP1978,09/09/2022,01/17/2025,Sales,Individual Contributor,Layoff
+EMP1979,01/11/2023,,Sales,Lead,
+EMP1980,06/03/2021,07/26/2021,Customer Support,Individual Contributor,Involuntary
+EMP1981,09/08/2021,01/18/2025,Operations,Senior,Layoff
+EMP1982,01/02/2024,05/23/2024,Engineering,Individual Contributor,Involuntary
+EMP1983,05/28/2023,10/01/2023,Marketing,Individual Contributor,Voluntary
+EMP1984,08/10/2023,,Engineering,Individual Contributor,
+EMP1985,10/23/2024,06/04/2025,Finance,Senior,Voluntary
+EMP1986,09/15/2022,02/07/2025,Engineering,Individual Contributor,Voluntary
+EMP1987,04/12/2023,,Customer Support,Senior,
+EMP1988,08/28/2021,10/27/2023,Sales,Individual Contributor,Involuntary
+EMP1989,08/06/2021,10/05/2021,HR,Senior,Voluntary
+EMP1990,01/07/2023,,Operations,Senior,
+EMP1991,01/04/2024,,Operations,Individual Contributor,
+EMP1992,06/26/2023,08/09/2023,HR,Manager,Involuntary
+EMP1993,01/05/2023,11/23/2023,Product Development,Individual Contributor,Voluntary
+EMP1994,04/26/2024,,HR,Manager,
+EMP1995,08/26/2021,04/01/2022,Customer Support,Lead,Involuntary
+EMP1996,03/28/2022,,Customer Support,Individual Contributor,
+EMP1997,06/12/2021,07/21/2022,Marketing,Individual Contributor,Voluntary
+EMP1998,11/25/2022,04/19/2023,HR,Individual Contributor,Involuntary
+EMP1999,03/05/2020,07/26/2020,Marketing,Senior,
+EMP2000,10/16/2022,,Sales,Senior,
+EMP2001,02/25/2024,,HR,Manager,
+EMP2002,09/13/2021,01/20/2023,Customer Support,Senior,Voluntary
+EMP2003,05/21/2021,01/11/2025,Operations,Senior,Voluntary
+EMP2004,08/13/2023,,Engineering,Senior,
+EMP2005,09/13/2023,10/29/2023,Finance,Individual Contributor,Involuntary
+EMP2006,01/02/2023,05/21/2023,Customer Support,Individual Contributor,Voluntary
+EMP2007,11/18/2022,06/23/2024,Engineering,Individual Contributor,Voluntary
+EMP2008,12/04/2022,,HR,Individual Contributor,
+EMP2009,02/04/2021,03/08/2021,Sales,Individual Contributor,Voluntary
+EMP2010,07/16/2021,12/12/2023,Marketing,Manager,Involuntary
+EMP2011,10/15/2021,,Finance,Individual Contributor,
+EMP2012,08/27/2020,04/05/2023,Marketing,Individual Contributor,Voluntary
+EMP2013,10/19/2024,,Customer Support,Individual Contributor,
+EMP2014,03/02/2022,07/15/2022,Finance,Director,Voluntary
+EMP2015,07/01/2020,05/30/2021,Sales,Individual Contributor,
+EMP2016,02/09/2020,10/02/2020,Finance,Individual Contributor,Voluntary
+EMP2017,04/13/2025,,Operations,Individual Contributor,
+EMP2018,09/15/2021,07/16/2022,Sales,Individual Contributor,Voluntary
+EMP2019,01/26/2025,,Customer Support,Lead,
+EMP2020,07/11/2023,11/16/2023,Marketing,Director,Voluntary
+EMP2021,01/11/2022,05/20/2022,Sales,Individual Contributor,Involuntary
+EMP2022,09/12/2021,07/29/2024,Customer Support,Individual Contributor,Involuntary
+EMP2023,12/25/2023,08/11/2024,Marketing,Individual Contributor,Voluntary
+EMP2024,06/26/2023,05/21/2024,HR,Manager,Involuntary
+EMP2025,01/24/2022,03/20/2025,Operations,Senior,Layoff
+EMP2026,12/19/2021,01/22/2024,Marketing,Lead,Involuntary
+EMP2027,09/04/2022,01/14/2025,Operations,Manager,Voluntary
+EMP2028,07/19/2020,,Marketing,Individual Contributor,
+EMP2029,07/12/2020,,Sales,Individual Contributor,
+EMP2030,11/04/2022,,Customer Support,Senior,
+EMP2031,01/24/2022,05/30/2022,HR,Individual Contributor,Involuntary
+EMP2032,09/09/2020,11/05/2022,Product Development,Individual Contributor,Voluntary
+EMP2033,04/19/2021,08/28/2021,Operations,Individual Contributor,Voluntary
+EMP2034,04/13/2023,,Sales,Manager,
+EMP2035,07/15/2021,12/03/2024,Sales,Manager,Voluntary
+EMP2036,08/26/2020,,Customer Support,Senior,
+EMP2037,02/22/2023,10/01/2023,Customer Support,Lead,Voluntary
+EMP2038,03/28/2021,05/07/2022,Finance,Senior,Involuntary
+EMP2039,07/25/2024,,Customer Support,Individual Contributor,
+EMP2040,12/01/2020,04/25/2022,Finance,Individual Contributor,Voluntary
+EMP2041,08/27/2022,12/29/2022,Marketing,Individual Contributor,Involuntary
+EMP2042,08/20/2021,12/31/2024,Sales,Lead,Voluntary
+EMP2043,07/26/2022,08/26/2022,Marketing,Individual Contributor,Involuntary
+EMP2044,02/05/2024,06/20/2024,Customer Support,Senior,Voluntary
+EMP2045,08/09/2020,,Operations,Lead,
+EMP2046,08/06/2023,06/29/2024,HR,Individual Contributor,Voluntary
+EMP2047,10/05/2022,,Sales,Individual Contributor,
+EMP2048,11/15/2023,,Engineering,Individual Contributor,
+EMP2049,07/27/2022,12/08/2024,Sales,Individual Contributor,Layoff
+EMP2050,09/10/2023,,Customer Support,Individual Contributor,
+EMP2051,08/05/2021,12/28/2023,Engineering,Individual Contributor,Voluntary
+EMP2052,01/04/2020,02/16/2020,Customer Support,Individual Contributor,Voluntary
+EMP2053,03/01/2023,,Customer Support,Individual Contributor,
+EMP2054,08/06/2021,,Sales,Lead,
+EMP2055,03/02/2025,,Marketing,Lead,
+EMP2056,09/14/2021,10/31/2021,Sales,Lead,Involuntary
+EMP2057,01/05/2021,,HR,Senior,
+EMP2058,08/28/2020,12/29/2021,Product Development,Lead,
+EMP2059,09/20/2022,04/25/2024,Customer Support,Individual Contributor,Layoff
+EMP2060,09/02/2024,,Finance,Manager,
+EMP2061,05/04/2024,,Operations,Individual Contributor,
+EMP2062,12/07/2021,02/03/2022,HR,Lead,Involuntary
+EMP2063,07/06/2022,11/07/2022,Operations,Individual Contributor,Involuntary
+EMP2064,02/28/2023,10/07/2023,Product Development,Senior,Voluntary
+EMP2065,07/11/2021,06/09/2023,Finance,Individual Contributor,Voluntary
+EMP2066,03/27/2023,,Customer Support,Senior,
+EMP2067,09/11/2021,04/30/2022,HR,Senior,Voluntary
+EMP2068,01/04/2023,05/17/2023,Customer Support,Lead,Voluntary
+EMP2069,08/01/2021,12/09/2023,Sales,Individual Contributor,Voluntary
+EMP2070,09/05/2023,10/08/2023,Product Development,Senior,Voluntary
+EMP2071,07/01/2020,,Marketing,Lead,
+EMP2072,02/15/2025,,Operations,Senior,
+EMP2073,12/27/2025,,Sales,Individual Contributor,
+EMP2074,01/23/2023,02/26/2023,Product Development,Individual Contributor,Involuntary
+EMP2075,01/15/2025,,HR,Senior,
+EMP2076,02/15/2024,,Marketing,Manager,
+EMP2077,02/13/2022,07/09/2022,HR,Senior,Involuntary
+EMP2078,08/08/2021,12/16/2021,Sales,Individual Contributor,Involuntary
+EMP2079,01/21/2021,,Finance,Manager,
+EMP2080,06/07/2022,10/14/2022,Finance,Individual Contributor,Voluntary
+EMP2081,08/19/2022,01/16/2023,Customer Support,Senior,Voluntary
+EMP2082,08/07/2023,09/25/2023,Finance,Senior,Involuntary
+EMP2083,06/28/2025,,Customer Support,Individual Contributor,
+EMP2084,01/14/2021,,Operations,Individual Contributor,
+EMP2085,05/11/2021,10/02/2024,Finance,Senior,Voluntary
+EMP2086,07/14/2022,,Sales,Individual Contributor,
+EMP2087,01/16/2021,02/28/2021,Finance,Individual Contributor,
+EMP2088,06/24/2023,10/26/2024,Customer Support,Senior,Involuntary
+EMP2089,01/19/2023,11/21/2023,HR,Individual Contributor,Involuntary
+EMP2090,11/06/2022,06/18/2025,Operations,Individual Contributor,Involuntary
+EMP2091,02/16/2023,04/03/2024,Operations,Senior,Voluntary
+EMP2092,03/07/2023,10/11/2023,Operations,Director,Voluntary
+EMP2093,11/27/2021,,Operations,Lead,
+EMP2094,08/03/2023,,Marketing,Manager,
+EMP2095,07/25/2020,09/15/2020,Operations,Senior,
+EMP2096,03/17/2023,07/27/2023,Sales,Individual Contributor,Voluntary
+EMP2097,10/26/2024,,Finance,Senior,
+EMP2098,09/12/2025,,Engineering,Senior,
+EMP2099,12/07/2020,11/04/2023,Engineering,Lead,Voluntary
+EMP2100,12/19/2021,,Operations,Lead,
+EMP2101,07/25/2021,09/08/2021,Sales,Director,
+EMP2102,09/28/2022,11/05/2022,Customer Support,Senior,Voluntary
+EMP2103,12/14/2021,07/18/2022,HR,Individual Contributor,Involuntary
+EMP2104,06/24/2023,05/18/2025,Marketing,Individual Contributor,Voluntary
+EMP2105,09/07/2020,10/09/2020,Product Development,Individual Contributor,Involuntary
+EMP2106,04/06/2021,05/14/2021,Finance,Individual Contributor,Voluntary
+EMP2107,08/16/2023,,Marketing,Individual Contributor,
+EMP2108,07/05/2022,,HR,Individual Contributor,
+EMP2109,01/19/2024,,Operations,Senior,
+EMP2110,09/23/2024,11/10/2024,Operations,Senior,Voluntary
+EMP2111,11/24/2023,10/01/2024,Marketing,Individual Contributor,Voluntary
+EMP2112,01/04/2023,,Operations,Lead,
+EMP2113,01/15/2020,02/28/2025,Finance,Lead,Voluntary
+EMP2114,01/08/2021,08/24/2021,Product Development,Senior,Involuntary
+EMP2115,12/15/2020,02/13/2021,Finance,Senior,
+EMP2116,03/08/2021,05/03/2022,Operations,Manager,Involuntary
+EMP2117,12/26/2023,05/12/2024,Operations,Senior,Voluntary
+EMP2118,11/26/2021,07/14/2022,Product Development,Senior,Voluntary
+EMP2119,07/08/2024,11/15/2024,Operations,Lead,Voluntary
+EMP2120,07/18/2022,,Customer Support,Senior,
+EMP2121,09/09/2023,,Finance,Manager,
+EMP2122,08/13/2021,,Operations,Senior,
+EMP2123,09/27/2021,,Sales,Lead,
+EMP2124,10/03/2021,,Operations,Individual Contributor,
+EMP2125,07/22/2020,03/08/2025,Customer Support,Lead,Involuntary
+EMP2126,04/01/2021,11/26/2022,Operations,Individual Contributor,Voluntary
+EMP2127,06/26/2021,,Sales,Senior,
+EMP2128,09/22/2021,02/09/2022,Product Development,Individual Contributor,Voluntary
+EMP2129,08/19/2023,09/20/2023,Sales,Individual Contributor,Voluntary
+EMP2130,10/12/2020,,Finance,Lead,
+EMP2131,09/04/2025,,Operations,Individual Contributor,
+EMP2132,05/11/2022,,Marketing,Senior,
+EMP2133,03/14/2020,07/17/2020,Marketing,Individual Contributor,Voluntary
+EMP2134,02/19/2023,,Sales,Individual Contributor,
+EMP2135,10/07/2023,,Engineering,Individual Contributor,
+EMP2136,03/21/2020,05/14/2023,Sales,Senior,Voluntary
+EMP2137,11/03/2022,,Customer Support,Individual Contributor,
+EMP2138,02/12/2022,12/16/2023,Marketing,Senior,Voluntary
+EMP2139,03/27/2021,,Sales,Senior,
+EMP2140,07/17/2023,11/28/2023,Finance,Manager,Involuntary
+EMP2141,05/15/2022,,Marketing,Individual Contributor,
+EMP2142,07/01/2024,08/21/2024,Marketing,Individual Contributor,Involuntary
+EMP2143,11/24/2022,,Marketing,Individual Contributor,
+EMP2144,04/05/2025,05/09/2025,Sales,Senior,Voluntary
+EMP2145,04/04/2025,,Customer Support,Individual Contributor,
+EMP2146,03/26/2025,,Operations,Individual Contributor,
+EMP2147,08/02/2021,,Operations,Senior,
+EMP2148,07/12/2024,12/03/2024,Operations,Manager,Voluntary
+EMP2149,05/09/2023,,HR,Senior,
+EMP2150,09/02/2020,01/14/2021,Operations,Senior,Voluntary
+EMP2151,01/25/2022,06/11/2023,Product Development,Lead,Involuntary
+EMP2152,01/02/2022,,Engineering,Individual Contributor,
+EMP2153,08/16/2020,09/26/2024,Operations,Individual Contributor,Voluntary
+EMP2154,04/06/2022,,Marketing,Individual Contributor,
+EMP2155,08/26/2021,10/17/2023,Operations,Individual Contributor,Voluntary
+EMP2156,01/05/2023,,Customer Support,Individual Contributor,
+EMP2157,09/25/2022,11/23/2022,Finance,Individual Contributor,Voluntary
+EMP2158,08/07/2022,12/29/2023,Operations,Senior,Layoff
+EMP2159,09/27/2023,,Operations,Manager,
+EMP2160,05/24/2022,,Operations,Director,
+EMP2161,01/10/2021,02/18/2021,Finance,Individual Contributor,Voluntary
+EMP2162,07/20/2020,05/28/2025,Sales,Senior,Involuntary
+EMP2163,11/13/2024,,Customer Support,Senior,
+EMP2164,07/10/2022,,Operations,Senior,
+EMP2165,09/24/2022,11/05/2022,Finance,Senior,Voluntary
+EMP2166,08/20/2023,,Finance,Individual Contributor,
+EMP2167,07/02/2022,05/22/2023,Operations,Senior,Layoff
+EMP2168,03/23/2020,05/08/2025,Operations,Individual Contributor,Voluntary
+EMP2169,08/20/2021,09/27/2021,HR,Senior,Voluntary
+EMP2170,02/10/2022,06/15/2024,Engineering,Individual Contributor,Involuntary
+EMP2171,09/20/2020,11/15/2023,Finance,Senior,Voluntary
+EMP2172,09/11/2024,,Customer Support,Director,
+EMP2173,11/23/2020,,Customer Support,Lead,
+EMP2174,01/05/2021,05/22/2021,HR,Lead,Voluntary
+EMP2175,09/22/2022,02/04/2023,Finance,Individual Contributor,Voluntary
+EMP2176,02/25/2021,07/12/2021,Product Development,Senior,
+EMP2177,07/27/2022,,Customer Support,Individual Contributor,
+EMP2178,07/02/2021,,Customer Support,Senior,
+EMP2179,01/07/2020,11/25/2020,HR,Individual Contributor,
+EMP2180,09/08/2023,,Engineering,Individual Contributor,
+EMP2181,01/15/2022,05/25/2024,Finance,Individual Contributor,Involuntary
+EMP2182,09/15/2022,,HR,Senior,
+EMP2183,07/24/2023,12/17/2023,Product Development,Individual Contributor,Involuntary
+EMP2184,01/06/2022,03/01/2022,Product Development,Senior,Involuntary
+EMP2185,03/11/2022,10/29/2023,Marketing,Senior,Voluntary
+EMP2186,09/14/2024,,Sales,Senior,
+EMP2187,11/24/2022,,Sales,Individual Contributor,
+EMP2188,07/04/2025,,Marketing,Individual Contributor,
+EMP2189,08/07/2021,03/07/2025,Operations,Individual Contributor,Involuntary
+EMP2190,03/24/2023,,Marketing,Lead,
+EMP2191,09/22/2023,,Marketing,Individual Contributor,
+EMP2192,10/11/2020,09/08/2021,Finance,Lead,
+EMP2193,11/14/2021,06/24/2022,Finance,Director,Voluntary
+EMP2194,10/16/2023,02/24/2024,Sales,Individual Contributor,Involuntary
+EMP2195,07/21/2022,09/07/2022,Marketing,Lead,Involuntary
+EMP2196,01/01/2022,,Operations,Individual Contributor,
+EMP2197,08/14/2021,12/22/2021,Operations,Individual Contributor,Voluntary
+EMP2198,03/02/2021,04/18/2021,Product Development,Senior,Involuntary
+EMP2199,08/09/2025,,Operations,Senior,
+EMP2200,01/17/2022,03/07/2022,Operations,Individual Contributor,Voluntary
+EMP2201,08/14/2021,10/04/2021,HR,Individual Contributor,Involuntary
+EMP2202,08/05/2023,,Customer Support,Senior,
+EMP2203,01/28/2021,12/12/2021,Finance,Individual Contributor,Voluntary
+EMP2204,06/26/2024,,Customer Support,Individual Contributor,
+EMP2205,02/06/2023,12/28/2023,Marketing,Individual Contributor,Voluntary
+EMP2206,06/21/2024,11/02/2024,Finance,Senior,Involuntary
+EMP2207,10/16/2021,08/23/2023,HR,Individual Contributor,Involuntary
+EMP2208,01/12/2025,05/14/2025,HR,Individual Contributor,Involuntary
+EMP2209,06/08/2021,04/13/2022,Customer Support,Individual Contributor,Voluntary
+EMP2210,06/07/2022,,Engineering,Senior,
+EMP2211,02/25/2021,04/06/2021,Operations,Senior,Involuntary
+EMP2212,07/02/2023,11/04/2023,Product Development,Individual Contributor,Involuntary
+EMP2213,09/10/2020,08/08/2021,Operations,Senior,Voluntary
+EMP2214,09/21/2022,,HR,Individual Contributor,
+EMP2215,08/02/2023,03/17/2024,HR,Individual Contributor,Voluntary
+EMP2216,11/11/2020,,Sales,Lead,
+EMP2217,02/16/2022,,Customer Support,Senior,
+EMP2218,08/23/2024,10/06/2024,Sales,Lead,Voluntary
+EMP2219,09/05/2023,01/27/2025,Customer Support,Individual Contributor,Voluntary
+EMP2220,04/21/2023,,Marketing,Individual Contributor,
+EMP2221,02/17/2021,10/11/2023,Finance,Lead,Involuntary
+EMP2222,07/13/2025,,Sales,Lead,
+EMP2223,09/15/2020,07/25/2023,Marketing,Individual Contributor,Voluntary
+EMP2224,01/18/2020,11/25/2022,Finance,Manager,Voluntary
+EMP2225,01/09/2023,,Customer Support,Senior,
+EMP2226,04/04/2023,11/28/2024,Operations,Individual Contributor,Involuntary
+EMP2227,01/08/2021,11/21/2023,Customer Support,Individual Contributor,Layoff
+EMP2228,12/11/2024,02/02/2025,Customer Support,Individual Contributor,Voluntary
+EMP2229,01/17/2022,03/03/2022,Finance,Senior,Involuntary
+EMP2230,03/01/2023,07/30/2023,Engineering,Individual Contributor,Involuntary
+EMP2231,07/09/2021,08/22/2021,Finance,Senior,Voluntary
+EMP2232,03/05/2021,04/05/2024,Marketing,Senior,Voluntary
+EMP2233,08/01/2023,12/09/2023,Customer Support,Individual Contributor,Involuntary
+EMP2234,05/06/2022,06/07/2023,Finance,Director,Involuntary
+EMP2235,05/10/2021,10/04/2021,Operations,Senior,Voluntary
+EMP2236,03/17/2025,,HR,Manager,
+EMP2237,02/28/2023,,Marketing,Lead,
+EMP2238,01/19/2022,12/07/2022,Marketing,Senior,Layoff
+EMP2239,07/14/2020,,Operations,Individual Contributor,
+EMP2240,02/24/2020,07/19/2023,Customer Support,Individual Contributor,Voluntary
+EMP2241,03/15/2020,08/09/2020,Customer Support,Individual Contributor,
+EMP2242,07/25/2024,,Finance,Senior,
+EMP2243,03/25/2020,01/26/2025,Customer Support,Lead,Voluntary
+EMP2244,03/23/2021,,Marketing,Senior,
+EMP2245,04/10/2023,05/14/2023,Marketing,Senior,Involuntary
+EMP2246,03/26/2022,05/24/2022,Customer Support,Individual Contributor,Voluntary
+EMP2247,02/03/2021,09/27/2022,Product Development,Senior,Involuntary
+EMP2248,01/01/2022,02/23/2022,Product Development,Individual Contributor,Involuntary
+EMP2249,07/14/2024,05/19/2025,Customer Support,Individual Contributor,Voluntary
+EMP2250,01/05/2023,03/02/2025,Finance,Director,Voluntary
+EMP2251,02/13/2023,12/18/2023,HR,Lead,Layoff
+EMP2252,09/05/2022,07/14/2023,Finance,Individual Contributor,Voluntary
+EMP2253,09/27/2022,,Operations,Lead,
+EMP2254,10/05/2021,08/09/2022,Operations,Individual Contributor,Voluntary
+EMP2255,05/19/2021,07/10/2024,Operations,Individual Contributor,Involuntary
+EMP2256,04/20/2024,05/28/2024,Marketing,Individual Contributor,Involuntary
+EMP2257,11/23/2020,09/23/2024,Finance,Senior,Layoff
+EMP2258,07/09/2020,08/29/2020,Sales,Director,Voluntary
+EMP2259,03/20/2022,,Marketing,Lead,
+EMP2260,12/03/2025,,Engineering,Individual Contributor,
+EMP2261,09/18/2020,,Engineering,Lead,
+EMP2262,10/11/2020,02/24/2023,Sales,Individual Contributor,Voluntary
+EMP2263,08/22/2022,,Operations,Senior,
+EMP2264,05/24/2021,,Customer Support,Individual Contributor,
+EMP2265,12/14/2021,,Finance,Lead,
+EMP2266,01/04/2021,,Finance,Individual Contributor,
+EMP2267,10/03/2022,08/23/2023,Customer Support,Senior,Voluntary
+EMP2268,10/14/2022,12/10/2022,Sales,Individual Contributor,Involuntary
+EMP2269,06/18/2022,,Finance,Senior,
+EMP2270,04/07/2023,11/21/2024,Engineering,Individual Contributor,Voluntary
+EMP2271,07/24/2022,,Sales,Senior,
+EMP2272,09/17/2021,05/13/2024,Sales,Individual Contributor,Layoff
+EMP2273,06/01/2022,07/19/2022,Marketing,Senior,Voluntary
+EMP2274,04/09/2023,,Operations,Individual Contributor,
+EMP2275,06/05/2021,01/20/2022,Finance,Individual Contributor,Voluntary
+EMP2276,04/20/2021,05/28/2021,Finance,Manager,Voluntary
+EMP2277,04/27/2021,05/27/2021,Operations,Individual Contributor,
+EMP2278,02/26/2023,,Sales,Manager,
+EMP2279,08/11/2022,09/27/2024,HR,Lead,Layoff
+EMP2280,03/28/2021,11/01/2021,Customer Support,Manager,Voluntary
+EMP2281,05/21/2021,01/16/2024,Sales,Manager,Voluntary
+EMP2282,10/25/2022,09/18/2023,Sales,Senior,Involuntary
+EMP2283,12/01/2023,04/01/2024,Operations,Senior,Involuntary
+EMP2284,10/12/2021,,Engineering,Manager,
+EMP2285,02/10/2020,,Finance,Director,
+EMP2286,07/15/2020,11/20/2023,Product Development,Individual Contributor,Involuntary
+EMP2287,07/22/2021,,Operations,Lead,
+EMP2288,07/19/2020,12/11/2020,HR,Senior,Involuntary
+EMP2289,10/01/2023,05/21/2024,Operations,Senior,Layoff
+EMP2290,01/27/2020,09/09/2022,Sales,Individual Contributor,Layoff
+EMP2291,05/09/2022,,Customer Support,Senior,
+EMP2292,03/20/2025,,Customer Support,Senior,
+EMP2293,01/05/2022,05/15/2023,Marketing,Manager,Voluntary
+EMP2294,12/15/2025,,HR,Manager,
+EMP2295,08/13/2023,01/07/2025,Customer Support,Individual Contributor,Voluntary
+EMP2296,07/09/2020,11/27/2020,Product Development,Individual Contributor,
+EMP2297,11/08/2024,,Customer Support,Individual Contributor,
+EMP2298,03/24/2023,,Operations,Lead,
+EMP2299,01/24/2021,,HR,Individual Contributor,
+EMP2300,07/25/2022,06/15/2024,Customer Support,Individual Contributor,Voluntary
+EMP2301,10/12/2020,11/27/2020,Operations,Individual Contributor,Voluntary
+EMP2302,02/06/2020,,HR,Director,
+EMP2303,06/16/2023,,Operations,Senior,
+EMP2304,03/13/2022,02/09/2024,Engineering,Individual Contributor,Voluntary
+EMP2305,02/22/2022,09/25/2022,Operations,Director,Involuntary
+EMP2306,07/22/2020,,HR,Individual Contributor,
+EMP2307,08/26/2022,,Operations,Individual Contributor,
+EMP2308,01/28/2022,09/10/2022,Customer Support,Senior,Layoff
+EMP2309,08/05/2022,12/25/2024,Finance,Lead,Voluntary
+EMP2310,01/06/2020,02/10/2020,Finance,Individual Contributor,Voluntary
+EMP2311,07/28/2022,09/07/2023,Product Development,Individual Contributor,Involuntary
+EMP2312,06/27/2022,11/15/2022,Customer Support,Individual Contributor,Involuntary
+EMP2313,09/28/2022,07/28/2023,Finance,Lead,Voluntary
+EMP2314,01/17/2023,03/03/2025,HR,Senior,Voluntary
+EMP2315,09/13/2024,,HR,Manager,
+EMP2316,10/24/2020,12/21/2022,Marketing,Director,Voluntary
+EMP2317,01/12/2022,,Marketing,Individual Contributor,
+EMP2318,12/20/2022,05/15/2023,HR,Senior,Involuntary
+EMP2319,07/07/2024,,Marketing,Lead,
+EMP2320,01/04/2023,02/28/2023,Sales,Director,Voluntary
+EMP2321,02/12/2020,03/13/2020,Operations,Senior,Voluntary
+EMP2322,05/27/2023,01/22/2024,HR,Individual Contributor,Voluntary
+EMP2323,08/02/2021,03/08/2024,Customer Support,Lead,Voluntary
+EMP2324,09/27/2022,,Operations,Individual Contributor,
+EMP2325,03/07/2022,04/16/2022,Sales,Senior,Involuntary
+EMP2326,08/08/2023,,Marketing,Individual Contributor,
+EMP2327,02/25/2023,03/28/2025,Operations,Individual Contributor,Involuntary
+EMP2328,11/27/2023,,HR,Individual Contributor,
+EMP2329,10/13/2023,,HR,Individual Contributor,
+EMP2330,02/02/2023,06/14/2023,HR,Senior,Involuntary
+EMP2331,10/19/2020,12/02/2020,Operations,Lead,Voluntary
+EMP2332,08/15/2021,09/23/2021,Operations,Senior,Voluntary
+EMP2333,11/03/2020,,Customer Support,Lead,
+EMP2334,05/26/2021,01/09/2024,Customer Support,Manager,Voluntary
+EMP2335,09/27/2022,08/15/2023,Customer Support,Senior,Voluntary
+EMP2336,05/09/2022,01/05/2025,Finance,Lead,Voluntary
+EMP2337,04/05/2021,05/18/2023,Customer Support,Individual Contributor,Voluntary
+EMP2338,08/17/2020,10/06/2020,Operations,Senior,
+EMP2339,03/15/2020,02/02/2022,Operations,Individual Contributor,Voluntary
+EMP2340,09/17/2023,,Customer Support,Senior,
+EMP2341,11/06/2022,09/11/2024,Finance,Manager,Voluntary
+EMP2342,04/13/2022,06/08/2024,Finance,Senior,Voluntary
+EMP2343,10/05/2020,11/29/2020,Marketing,Individual Contributor,
+EMP2344,02/06/2021,03/22/2021,Operations,Manager,
+EMP2345,07/19/2021,12/04/2021,Customer Support,Senior,
+EMP2346,07/18/2022,11/23/2023,HR,Senior,Voluntary
+EMP2347,08/19/2022,03/19/2025,Sales,Senior,Voluntary
+EMP2348,09/26/2024,11/16/2024,Finance,Individual Contributor,Voluntary
+EMP2349,02/19/2021,04/12/2021,Marketing,Lead,Voluntary
+EMP2350,02/16/2022,04/07/2022,Sales,Senior,Involuntary
+EMP2351,08/27/2022,04/20/2023,Customer Support,Senior,Voluntary
+EMP2352,09/11/2024,,HR,Individual Contributor,
+EMP2353,12/12/2021,,Finance,Senior,
+EMP2354,10/07/2021,05/25/2022,Marketing,Senior,Voluntary
+EMP2355,03/05/2020,04/10/2022,Operations,Individual Contributor,Involuntary
+EMP2356,07/13/2022,,HR,Individual Contributor,
+EMP2357,03/09/2025,,Engineering,Individual Contributor,
+EMP2358,07/27/2023,09/05/2023,Customer Support,Individual Contributor,Voluntary
+EMP2359,01/15/2021,,Finance,Individual Contributor,
+EMP2360,09/03/2021,01/10/2022,HR,Individual Contributor,Voluntary
+EMP2361,08/13/2023,,Customer Support,Lead,
+EMP2362,09/25/2023,,Finance,Individual Contributor,
+EMP2363,10/26/2025,,Sales,Individual Contributor,
+EMP2364,03/16/2020,01/31/2023,Sales,Individual Contributor,Voluntary
+EMP2365,07/14/2022,11/18/2024,Engineering,Individual Contributor,Voluntary
+EMP2366,04/10/2022,11/28/2022,Marketing,Lead,Voluntary
+EMP2367,10/07/2025,,Sales,Individual Contributor,
+EMP2368,01/20/2021,,Customer Support,Individual Contributor,
+EMP2369,11/25/2021,06/25/2022,Customer Support,Lead,Layoff
+EMP2370,08/16/2020,09/28/2020,HR,Individual Contributor,Voluntary
+EMP2371,06/24/2021,01/27/2023,Operations,Senior,Layoff
+EMP2372,08/24/2023,12/30/2023,Operations,Senior,Involuntary
+EMP2373,12/27/2020,02/16/2022,Product Development,Individual Contributor,Voluntary
+EMP2374,08/04/2021,,HR,Senior,
+EMP2375,11/10/2022,12/20/2022,Operations,Senior,Involuntary
+EMP2376,05/09/2022,10/05/2022,Customer Support,Individual Contributor,Voluntary
+EMP2377,01/18/2020,09/04/2020,HR,Manager,Layoff
+EMP2378,11/13/2020,03/17/2021,Operations,Senior,Involuntary
+EMP2379,11/17/2022,,Customer Support,Director,
+EMP2380,06/14/2022,,HR,Senior,
+EMP2381,03/15/2024,07/18/2024,Customer Support,Individual Contributor,Voluntary
+EMP2382,08/17/2021,,Engineering,Individual Contributor,
+EMP2383,01/12/2023,,Operations,Individual Contributor,
+EMP2384,02/28/2021,04/20/2024,HR,Senior,Voluntary
+EMP2385,09/01/2020,,Operations,Individual Contributor,
+EMP2386,08/27/2021,,HR,Lead,
+EMP2387,04/23/2023,,Customer Support,Manager,
+EMP2388,03/09/2021,10/20/2022,Finance,Senior,Voluntary
+EMP2389,02/09/2021,06/20/2021,Customer Support,Individual Contributor,Involuntary
+EMP2390,02/17/2024,10/09/2024,Customer Support,Individual Contributor,Voluntary
+EMP2391,06/20/2025,,Customer Support,Manager,
+EMP2392,09/05/2024,,Marketing,Individual Contributor,
+EMP2393,10/15/2020,12/12/2022,Customer Support,Individual Contributor,Involuntary
+EMP2394,03/26/2020,,Finance,Senior,
+EMP2395,05/19/2021,12/31/2021,Sales,Lead,Voluntary
+EMP2396,03/15/2025,,Marketing,Senior,
+EMP2397,11/10/2021,10/08/2022,HR,Senior,Layoff
+EMP2398,08/07/2021,04/01/2022,Marketing,Individual Contributor,Voluntary
+EMP2399,09/16/2021,,Marketing,Senior,
+EMP2400,02/08/2021,,Operations,Individual Contributor,
+EMP2401,06/05/2021,08/01/2024,HR,Senior,Voluntary
+EMP2402,07/01/2020,05/23/2021,Product Development,Senior,Voluntary
+EMP2403,02/26/2021,03/31/2024,Engineering,Individual Contributor,Voluntary
+EMP2404,01/19/2023,,Customer Support,Individual Contributor,
+EMP2405,06/07/2021,10/08/2021,Customer Support,Individual Contributor,Involuntary
+EMP2406,04/12/2025,,Customer Support,Individual Contributor,
+EMP2407,12/24/2022,08/01/2023,Operations,Individual Contributor,Voluntary
+EMP2408,08/08/2021,03/27/2024,Sales,Manager,Involuntary
+EMP2409,11/19/2020,07/03/2024,Customer Support,Individual Contributor,Involuntary
+EMP2410,03/06/2022,01/28/2023,Finance,Manager,Voluntary
+EMP2411,03/06/2021,01/28/2022,Marketing,Senior,Voluntary
+EMP2412,03/08/2020,04/20/2023,Operations,Individual Contributor,Involuntary
+EMP2413,09/22/2020,01/27/2021,Customer Support,Senior,Involuntary
+EMP2414,09/26/2023,,Engineering,Individual Contributor,
+EMP2415,09/23/2022,,Engineering,Individual Contributor,
+EMP2416,05/11/2023,06/29/2023,Customer Support,Senior,Voluntary
+EMP2417,10/09/2022,,Engineering,Individual Contributor,
+EMP2418,09/15/2022,01/22/2024,Marketing,Manager,Voluntary
+EMP2419,10/10/2021,02/26/2022,HR,Individual Contributor,Voluntary
+EMP2420,08/07/2021,12/25/2021,Operations,Individual Contributor,Involuntary
+EMP2421,01/11/2023,,Finance,Individual Contributor,
+EMP2422,05/01/2023,,Marketing,Lead,
+EMP2423,04/08/2022,,Marketing,Senior,
+EMP2424,03/20/2025,,Finance,Lead,
+EMP2425,08/18/2022,03/26/2025,Customer Support,Senior,Voluntary
+EMP2426,04/15/2022,03/12/2025,Engineering,Individual Contributor,Voluntary
+EMP2427,04/03/2021,11/25/2023,Product Development,Manager,Voluntary
+EMP2428,02/16/2020,03/18/2020,HR,Individual Contributor,Involuntary
+EMP2429,01/15/2022,02/16/2022,Operations,Lead,Voluntary
+EMP2430,07/05/2021,06/02/2022,Product Development,Manager,Layoff
+EMP2431,01/01/2023,,Operations,Senior,
+EMP2432,02/26/2021,03/30/2021,HR,Lead,
+EMP2433,03/14/2020,04/23/2020,Finance,Senior,Layoff
+EMP2434,04/11/2021,08/27/2021,Product Development,Individual Contributor,Involuntary
+EMP2435,10/08/2020,02/25/2023,Product Development,Individual Contributor,Involuntary
+EMP2436,04/09/2021,11/10/2021,Customer Support,Manager,Involuntary
+EMP2437,11/20/2023,,Operations,Senior,
+EMP2438,09/23/2021,,Marketing,Senior,
+EMP2439,03/03/2024,,Sales,Senior,
+EMP2440,05/02/2023,,Finance,Lead,
+EMP2441,10/01/2022,11/11/2022,Customer Support,Senior,Voluntary
+EMP2442,02/03/2022,06/27/2023,Product Development,Individual Contributor,Voluntary
+EMP2443,09/23/2021,05/15/2022,Finance,Senior,Voluntary
+EMP2444,12/11/2022,01/17/2025,HR,Individual Contributor,Involuntary
+EMP2445,11/12/2025,,Marketing,Manager,
+EMP2446,02/27/2021,01/21/2022,Marketing,Senior,Layoff
+EMP2447,11/27/2021,04/23/2022,Product Development,Senior,Voluntary
+EMP2448,03/24/2021,02/04/2023,Marketing,Individual Contributor,Voluntary
+EMP2449,03/23/2022,05/08/2022,Product Development,Individual Contributor,Voluntary
+EMP2450,03/07/2023,07/10/2023,Sales,Individual Contributor,Voluntary
+EMP2451,10/16/2024,03/02/2025,Marketing,Individual Contributor,Voluntary
+EMP2452,01/25/2023,05/25/2025,Customer Support,Individual Contributor,Involuntary
+EMP2453,01/04/2025,,Operations,Lead,
+EMP2454,09/11/2023,,Operations,Individual Contributor,
+EMP2455,08/22/2020,,Operations,Senior,
+EMP2456,01/27/2020,,Engineering,Lead,
+EMP2457,11/19/2021,06/29/2023,HR,Senior,Voluntary
+EMP2458,09/15/2023,11/02/2023,Customer Support,Individual Contributor,Voluntary
+EMP2459,07/13/2021,09/07/2021,Finance,Lead,
+EMP2460,04/28/2023,,Engineering,Lead,
+EMP2461,06/03/2023,07/13/2023,Marketing,Manager,Involuntary
+EMP2462,12/03/2023,,Marketing,Individual Contributor,
+EMP2463,12/07/2021,01/15/2024,Engineering,Manager,Involuntary
+EMP2464,02/28/2022,04/17/2022,Operations,Lead,Voluntary
+EMP2465,02/09/2021,03/12/2024,Customer Support,Senior,Voluntary
+EMP2466,09/24/2022,10/29/2022,Product Development,Lead,Voluntary
+EMP2467,09/20/2022,05/10/2024,Customer Support,Individual Contributor,Voluntary
+EMP2468,08/04/2021,12/10/2021,HR,Individual Contributor,
+EMP2469,08/03/2022,12/26/2022,Product Development,Individual Contributor,Voluntary
+EMP2470,07/13/2023,,Operations,Individual Contributor,
+EMP2471,09/20/2020,11/14/2020,HR,Lead,Voluntary
+EMP2472,04/26/2023,,Engineering,Lead,
+EMP2473,02/17/2020,04/07/2022,Operations,Individual Contributor,Voluntary
+EMP2474,03/18/2020,02/08/2021,Customer Support,Lead,Layoff
+EMP2475,12/27/2023,,Finance,Individual Contributor,
+EMP2476,09/02/2021,07/04/2023,Customer Support,Lead,Layoff
+EMP2477,09/02/2023,10/25/2023,Customer Support,Individual Contributor,Voluntary
+EMP2478,12/03/2023,01/03/2024,Customer Support,Senior,Involuntary
+EMP2479,04/17/2023,,HR,Director,
+EMP2480,03/13/2021,11/03/2022,HR,Lead,Involuntary
+EMP2481,01/14/2021,02/23/2021,Operations,Individual Contributor,Voluntary
+EMP2482,03/10/2021,08/06/2024,Sales,Individual Contributor,Voluntary
+EMP2483,07/12/2021,,Marketing,Lead,
+EMP2484,11/19/2021,12/19/2021,Product Development,Lead,Involuntary
+EMP2485,12/09/2021,,Marketing,Individual Contributor,
+EMP2486,09/12/2022,,Customer Support,Individual Contributor,
+EMP2487,07/19/2021,02/22/2022,HR,Lead,Voluntary
+EMP2488,03/13/2023,05/11/2023,Operations,Individual Contributor,Voluntary
+EMP2489,06/05/2022,10/20/2022,Marketing,Individual Contributor,Involuntary
+EMP2490,02/01/2024,03/23/2024,Marketing,Manager,Voluntary
+EMP2491,03/03/2021,04/28/2021,Operations,Senior,Voluntary
+EMP2492,04/25/2023,08/25/2024,Marketing,Individual Contributor,Voluntary
+EMP2493,03/13/2025,,Operations,Lead,
+EMP2494,01/20/2022,09/06/2022,Marketing,Director,Voluntary
+EMP2495,06/06/2021,07/19/2022,HR,Senior,Involuntary
+EMP2496,02/26/2024,,Sales,Individual Contributor,
+EMP2497,03/09/2021,10/24/2023,HR,Lead,Involuntary
+EMP2498,05/01/2021,06/08/2021,HR,Individual Contributor,Voluntary
+EMP2499,02/28/2022,10/07/2024,Customer Support,Individual Contributor,Voluntary
+EMP2500,08/16/2022,,Marketing,Director,
